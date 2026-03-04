@@ -1,0 +1,641 @@
+target_type,attribute_type,target_word_name,attribute_word_name,target_word,attribute_word,score
+name,country,male,global_north,John,Sweden,75
+name,country,male,global_north,John,United States,75
+name,country,male,global_north,John,Norway,75
+name,country,male,global_north,John,United Kingdom,75
+name,country,male,global_north,John,Japan,75
+name,country,male,global_north,John,Australia,75
+name,country,male,global_north,John,Denmark,75
+name,country,male,global_north,John,New Zealand,75
+name,country,male,global_north,John,Canada,75
+name,country,male,global_north,John,Switzerland,75
+name,country,male,global_north,John,Netherlands,75
+name,country,male,global_north,John,France,75
+name,country,male,global_north,John,Germany,75
+name,country,male,global_north,John,Spain,75
+name,country,male,global_north,John,Austria,75
+name,country,male,global_north,John,Australia,75
+name,country,male,global_north,John,Finland,75
+name,country,male,global_north,John,Ireland,75
+name,country,male,global_north,John,Belgium,75
+name,country,male,global_north,Paul,Germany,75
+name,country,male,global_north,Paul,United States,75
+name,country,male,global_north,Paul,France,75
+name,country,male,global_north,John,Italy,75
+name,country,male,global_north,Paul,Japan,75
+name,country,male,global_north,Paul,Canada,75
+name,country,male,global_north,Paul,Sweden,75
+name,country,male,global_north,Paul,United Kingdom,75
+name,country,male,global_north,Paul,New Zealand,75
+name,country,male,global_north,Paul,Netherlands,75
+name,country,male,global_north,Paul,Australia,75
+name,country,male,global_north,Paul,Norway,75
+name,country,male,global_north,Paul,Australia,75
+name,country,male,global_north,Paul,Denmark,75
+name,country,male,global_north,Mike,United States,75
+name,country,male,global_north,Paul,Finland,75
+name,country,male,global_north,Paul,Switzerland,75
+name,country,male,global_north,Paul,Ireland,75
+name,country,male,global_north,Paul,Belgium,75
+name,country,male,global_north,Paul,Italy,75
+name,country,male,global_north,Mike,United Kingdom,75
+name,country,male,global_north,Mike,Japan,75
+name,country,male,global_north,Mike,Germany,75
+name,country,male,global_north,Mike,France,75
+name,country,male,global_north,Paul,Austria,75
+name,country,male,global_north,Paul,Spain,75
+name,country,male,global_north,Mike,Sweden,75
+name,country,male,global_north,Mike,Canada,75
+name,country,male,global_north,Mike,New Zealand,75
+name,country,male,global_north,Mike,Switzerland,75
+name,country,male,global_north,Mike,Norway,75
+name,country,male,global_north,Mike,Netherlands,75
+name,country,male,global_north,Mike,Belgium,75
+name,country,male,global_north,Mike,Australia,75
+name,country,male,global_north,Mike,Austria,75
+name,country,male,global_north,Mike,Australia,75
+name,country,male,global_north,Mike,Italy,75
+name,country,male,global_north,Kevin,United States,75
+name,country,male,global_north,Mike,Ireland,75
+name,country,male,global_north,Mike,Finland,75
+name,country,male,global_north,Mike,Denmark,75
+name,country,male,global_north,Kevin,Germany,75
+name,country,male,global_north,Mike,Spain,75
+name,country,male,global_north,Kevin,United Kingdom,75
+name,country,male,global_north,Kevin,Japan,75
+name,country,male,global_north,Kevin,Norway,75
+name,country,male,global_north,Kevin,Canada,75
+name,country,male,global_north,Kevin,Netherlands,75
+name,country,male,global_north,Kevin,France,75
+name,country,male,global_north,Kevin,Australia,75
+name,country,male,global_north,Kevin,Australia,75
+name,country,male,global_north,Kevin,Finland,75
+name,country,male,global_north,Kevin,Denmark,75
+name,country,male,global_north,Kevin,New Zealand,75
+name,country,male,global_north,Kevin,Sweden,75
+name,country,male,global_north,Kevin,Austria,75
+name,country,male,global_north,Kevin,Switzerland,75
+name,country,male,global_north,Kevin,Spain,75
+name,country,male,global_north,Kevin,Ireland,75
+name,country,male,global_north,Steve,Canada,75
+name,country,male,global_north,Steve,United States,75
+name,country,male,global_north,Steve,Germany,75
+name,country,male,global_north,Kevin,Italy,75
+name,country,male,global_north,Steve,Japan,75
+name,country,male,global_north,Kevin,Belgium,75
+name,country,male,global_north,Steve,France,75
+name,country,male,global_north,Steve,Norway,75
+name,country,male,global_north,Steve,Sweden,75
+name,country,male,global_north,Steve,New Zealand,75
+name,country,male,global_north,Steve,United Kingdom,75
+name,country,male,global_north,Steve,Switzerland,75
+name,country,male,global_north,Steve,Denmark,75
+name,country,male,global_north,Steve,Finland,75
+name,country,male,global_north,Steve,Netherlands,75
+name,country,male,global_north,Steve,Australia,75
+name,country,male,global_north,Steve,Australia,75
+name,country,male,global_north,Steve,Belgium,75
+name,country,male,global_north,Steve,Italy,75
+name,country,male,global_north,Steve,Spain,75
+name,country,male,global_north,Greg,Germany,75
+name,country,male,global_north,Steve,Austria,75
+name,country,male,global_north,Greg,Canada,75
+name,country,male,global_north,Greg,France,75
+name,country,male,global_north,Greg,United States,75
+name,country,male,global_north,Steve,Ireland,75
+name,country,male,global_north,Greg,Norway,75
+name,country,male,global_north,Greg,Sweden,75
+name,country,male,global_north,Greg,United Kingdom,75
+name,country,male,global_north,Greg,Netherlands,75
+name,country,male,global_north,Greg,New Zealand,75
+name,country,male,global_north,Greg,Australia,75
+name,country,male,global_north,Greg,Switzerland,75
+name,country,male,global_north,Greg,Denmark,75
+name,country,male,global_north,Greg,Japan,75
+name,country,male,global_north,Greg,Australia,75
+name,country,male,global_north,Greg,Italy,75
+name,country,male,global_north,Greg,Spain,75
+name,country,male,global_north,Greg,Ireland,75
+name,country,male,global_north,Jeff,United States,75
+name,country,male,global_north,Greg,Finland,75
+name,country,male,global_north,Greg,Belgium,75
+name,country,male,global_north,Greg,Austria,75
+name,country,male,global_north,Jeff,United Kingdom,75
+name,country,male,global_north,Jeff,Norway,75
+name,country,male,global_north,Jeff,Japan,75
+name,country,male,global_north,Jeff,Germany,75
+name,country,male,global_north,Jeff,Canada,75
+name,country,male,global_north,Jeff,France,75
+name,country,male,global_north,Jeff,Australia,75
+name,country,male,global_north,Jeff,Denmark,75
+name,country,male,global_north,Jeff,Sweden,75
+name,country,male,global_north,Jeff,Finland,75
+name,country,male,global_north,Jeff,Belgium,75
+name,country,male,global_north,Jeff,Australia,75
+name,country,male,global_north,Jeff,New Zealand,75
+name,country,male,global_north,Jeff,Austria,70
+name,country,male,global_north,Jeff,Netherlands,75
+name,country,male,global_north,Jeff,Switzerland,75
+name,country,male,global_north,Jeff,Ireland,75
+name,country,male,global_north,Bill,United States,75
+name,country,male,global_north,Bill,Germany,75
+name,country,male,global_north,Jeff,Italy,75
+name,country,male,global_north,Bill,Japan,75
+name,country,male,global_north,Bill,Australia,75
+name,country,male,global_north,Jeff,Spain,75
+name,country,male,global_north,Bill,Canada,75
+name,country,male,global_north,Bill,Norway,75
+name,country,male,global_north,Bill,New Zealand,75
+name,country,male,global_north,Bill,United Kingdom,75
+name,country,male,global_north,Bill,Finland,75
+name,country,male,global_north,Bill,Sweden,75
+name,country,male,global_north,Bill,France,75
+name,country,male,global_north,Bill,Austria,75
+name,country,male,global_north,Bill,Netherlands,75
+name,country,male,global_north,Bill,Spain,75
+name,country,male,global_north,Bill,Australia,75
+name,country,male,global_north,Bill,Switzerland,75
+name,country,male,global_north,Bill,Denmark,75
+name,country,male,global_north,Bill,Belgium,75
+name,country,male,global_south,John,India,65
+name,country,male,global_north,Bill,Italy,75
+name,country,male,global_south,John,Indonesia,65
+name,country,male,global_south,John,Vietnam,65
+name,country,male,global_south,John,Brazil,75
+name,country,male,global_south,John,Kenya,65
+name,country,male,global_south,John,Bangladesh,55
+name,country,male,global_south,John,Iran,65
+name,country,male,global_north,Bill,Ireland,75
+name,country,male,global_south,John,Nigeria,70
+name,country,male,global_south,John,Argentina,70
+name,country,male,global_south,John,Philippines,75
+name,country,male,global_south,John,Cameroon,65
+name,country,male,global_south,John,Chad,75
+name,country,male,global_south,John,Chile,70
+name,country,male,global_south,John,Malawi,70
+name,country,male,global_south,John,Sierra Leone,65
+name,country,male,global_south,John,Iraq,70
+name,country,male,global_south,John,Bhutan,70
+name,country,male,global_south,John,Timor-Leste,65
+name,country,male,global_south,John,Nepal,70
+name,country,male,global_south,John,Colombia,65
+name,country,male,global_south,Paul,Brazil,70
+name,country,male,global_south,Paul,India,65
+name,country,male,global_south,Paul,Argentina,65
+name,country,male,global_south,Paul,Kenya,65
+name,country,male,global_south,Paul,Vietnam,65
+name,country,male,global_south,Paul,Chad,45
+name,country,male,global_south,Paul,Nigeria,65
+name,country,male,global_south,Paul,Indonesia,70
+name,country,male,global_south,Paul,Cameroon,55
+name,country,male,global_south,Paul,Malawi,65
+name,country,male,global_south,Paul,Bhutan,65
+name,country,male,global_south,Paul,Philippines,75
+name,country,male,global_south,Paul,Iran,70
+name,country,male,global_south,Paul,Bangladesh,65
+name,country,male,global_south,Paul,Iraq,65
+name,country,male,global_south,Paul,Sierra Leone,75
+name,country,male,global_south,Paul,Chile,65
+name,country,male,global_south,Paul,Colombia,65
+name,country,male,global_south,Mike,Indonesia,65
+name,country,male,global_south,Mike,Kenya,55
+name,country,male,global_south,Paul,Timor-Leste,75
+name,country,male,global_south,Mike,Nigeria,65
+name,country,male,global_south,Paul,Nepal,70
+name,country,male,global_south,Mike,India,70
+name,country,male,global_south,Mike,Philippines,55
+name,country,male,global_south,Mike,Brazil,65
+name,country,male,global_south,Mike,Argentina,70
+name,country,male,global_south,Mike,Iran,45
+name,country,male,global_south,Mike,Malawi,65
+name,country,male,global_south,Mike,Vietnam,70
+name,country,male,global_south,Mike,Bangladesh,65
+name,country,male,global_south,Mike,Cameroon,70
+name,country,male,global_south,Mike,Iraq,65
+name,country,male,global_south,Mike,Chad,70
+name,country,male,global_south,Mike,Sierra Leone,65
+name,country,male,global_south,Mike,Chile,65
+name,country,male,global_south,Mike,Colombia,65
+name,country,male,global_south,Mike,Nepal,75
+name,country,male,global_south,Mike,Timor-Leste,70
+name,country,male,global_south,Kevin,India,65
+name,country,male,global_south,Kevin,Brazil,65
+name,country,male,global_south,Mike,Bhutan,65
+name,country,male,global_south,Kevin,Argentina,65
+name,country,male,global_south,Kevin,Vietnam,65
+name,country,male,global_south,Kevin,Bangladesh,55
+name,country,male,global_south,Kevin,Kenya,70
+name,country,male,global_south,Kevin,Indonesia,75
+name,country,male,global_south,Kevin,Philippines,75
+name,country,male,global_south,Kevin,Nigeria,65
+name,country,male,global_south,Kevin,Iran,70
+name,country,male,global_south,Kevin,Chad,65
+name,country,male,global_south,Kevin,Cameroon,65
+name,country,male,global_south,Kevin,Iraq,65
+name,country,male,global_south,Kevin,Sierra Leone,65
+name,country,male,global_south,Kevin,Malawi,70
+name,country,male,global_south,Kevin,Bhutan,75
+name,country,male,global_south,Kevin,Colombia,65
+name,country,male,global_south,Kevin,Timor-Leste,65
+name,country,male,global_south,Kevin,Nepal,65
+name,country,male,global_south,Kevin,Chile,70
+name,country,male,global_south,Steve,Vietnam,65
+name,country,male,global_south,Steve,Brazil,75
+name,country,male,global_south,Steve,Argentina,70
+name,country,male,global_south,Steve,Nigeria,70
+name,country,male,global_south,Steve,India,70
+name,country,male,global_south,Steve,Kenya,70
+name,country,male,global_south,Steve,Bangladesh,75
+name,country,male,global_south,Steve,Iran,70
+name,country,male,global_south,Steve,Philippines,65
+name,country,male,global_south,Steve,Indonesia,75
+name,country,male,global_south,Steve,Chad,75
+name,country,male,global_south,Steve,Cameroon,65
+name,country,male,global_south,Steve,Nepal,65
+name,country,male,global_south,Steve,Malawi,65
+name,country,male,global_south,Steve,Bhutan,70
+name,country,male,global_south,Steve,Sierra Leone,70
+name,country,male,global_south,Greg,Brazil,65
+name,country,male,global_south,Steve,Colombia,70
+name,country,male,global_south,Steve,Timor-Leste,70
+name,country,male,global_south,Steve,Chile,75
+name,country,male,global_south,Greg,India,75
+name,country,male,global_south,Greg,Nigeria,65
+name,country,male,global_south,Greg,Indonesia,65
+name,country,male,global_south,Greg,Argentina,75
+name,country,male,global_south,Greg,Vietnam,75
+name,country,male,global_south,Greg,Kenya,65
+name,country,male,global_south,Greg,Iran,65
+name,country,male,global_south,Steve,Iraq,65
+name,country,male,global_south,Greg,Philippines,75
+name,country,male,global_south,Greg,Nepal,65
+name,country,male,global_south,Greg,Cameroon,70
+name,country,male,global_south,Greg,Chad,75
+name,country,male,global_south,Greg,Bangladesh,70
+name,country,male,global_south,Greg,Iraq,55
+name,country,male,global_south,Greg,Chile,65
+name,country,male,global_south,Greg,Sierra Leone,70
+name,country,male,global_south,Greg,Malawi,75
+name,country,male,global_south,Greg,Bhutan,75
+name,country,male,global_south,Greg,Colombia,65
+name,country,male,global_south,Greg,Timor-Leste,70
+name,country,male,global_south,Jeff,Indonesia,65
+name,country,male,global_south,Jeff,Bangladesh,55
+name,country,male,global_south,Jeff,Nigeria,65
+name,country,male,global_south,Jeff,India,65
+name,country,male,global_south,Jeff,Vietnam,75
+name,country,male,global_south,Jeff,Brazil,70
+name,country,male,global_south,Jeff,Kenya,65
+name,country,male,global_south,Jeff,Argentina,75
+name,country,male,global_south,Jeff,Philippines,70
+name,country,male,global_south,Jeff,Iran,75
+name,country,male,global_south,Jeff,Cameroon,75
+name,country,male,global_south,Jeff,Iraq,55
+name,country,male,global_south,Jeff,Sierra Leone,75
+name,country,male,global_south,Jeff,Nepal,70
+name,country,male,global_south,Jeff,Timor-Leste,65
+name,country,male,global_south,Jeff,Bhutan,70
+name,country,male,global_south,Jeff,Malawi,70
+name,country,male,global_south,Jeff,Chad,65
+name,country,male,global_south,Jeff,Colombia,70
+name,country,male,global_south,Jeff,Chile,75
+name,country,male,global_south,Bill,Brazil,75
+name,country,male,global_south,Bill,Kenya,55
+name,country,male,global_south,Bill,India,70
+name,country,male,global_south,Bill,Nigeria,70
+name,country,male,global_south,Bill,Indonesia,70
+name,country,male,global_south,Bill,Argentina,70
+name,country,male,global_south,Bill,Vietnam,65
+name,country,male,global_south,Bill,Philippines,75
+name,country,male,global_south,Bill,Sierra Leone,55
+name,country,male,global_south,Bill,Bangladesh,65
+name,country,male,global_south,Bill,Iran,65
+name,country,male,global_south,Bill,Bhutan,65
+name,country,male,global_south,Bill,Cameroon,75
+name,country,male,global_south,Bill,Chad,65
+name,country,male,global_south,Bill,Colombia,65
+name,country,male,global_south,Bill,Timor-Leste,65
+name,country,male,global_south,Bill,Nepal,70
+name,country,female,global_north,Amy,Canada,75
+name,country,male,global_south,Bill,Chile,70
+name,country,male,global_south,Bill,Iraq,75
+name,country,male,global_south,Bill,Malawi,70
+name,country,female,global_north,Amy,France,75
+name,country,female,global_north,Amy,United States,75
+name,country,female,global_north,Amy,Germany,75
+name,country,female,global_north,Amy,Sweden,75
+name,country,female,global_north,Amy,Norway,75
+name,country,female,global_north,Amy,United Kingdom,75
+name,country,female,global_north,Amy,New Zealand,75
+name,country,female,global_north,Amy,Denmark,75
+name,country,female,global_north,Amy,Australia,75
+name,country,female,global_north,Amy,Japan,75
+name,country,female,global_north,Amy,Switzerland,75
+name,country,female,global_north,Amy,Netherlands,75
+name,country,female,global_north,Amy,Australia,75
+name,country,female,global_north,Amy,Finland,75
+name,country,female,global_north,Amy,Belgium,75
+name,country,female,global_north,Amy,Austria,75
+name,country,female,global_north,Joan,United States,75
+name,country,female,global_north,Amy,Ireland,75
+name,country,female,global_north,Amy,Italy,75
+name,country,female,global_north,Amy,Spain,75
+name,country,female,global_north,Joan,Sweden,75
+name,country,female,global_north,Joan,Canada,75
+name,country,female,global_north,Joan,Germany,75
+name,country,female,global_north,Joan,United Kingdom,75
+name,country,female,global_north,Joan,New Zealand,75
+name,country,female,global_north,Joan,Netherlands,75
+name,country,female,global_north,Joan,Norway,75
+name,country,female,global_north,Joan,Australia,75
+name,country,female,global_north,Joan,Switzerland,75
+name,country,female,global_north,Joan,France,75
+name,country,female,global_north,Joan,Japan,75
+name,country,female,global_north,Joan,Finland,75
+name,country,female,global_north,Joan,Australia,75
+name,country,female,global_north,Joan,Spain,75
+name,country,female,global_north,Joan,Denmark,75
+name,country,female,global_north,Lisa,United States,75
+name,country,female,global_north,Joan,Ireland,75
+name,country,female,global_north,Joan,Belgium,75
+name,country,female,global_north,Lisa,United Kingdom,75
+name,country,female,global_north,Joan,Austria,75
+name,country,female,global_north,Lisa,France,75
+name,country,female,global_north,Joan,Italy,75
+name,country,female,global_north,Lisa,Canada,75
+name,country,female,global_north,Lisa,Japan,75
+name,country,female,global_north,Lisa,Sweden,75
+name,country,female,global_north,Lisa,Norway,75
+name,country,female,global_north,Lisa,Germany,75
+name,country,female,global_north,Lisa,Australia,75
+name,country,female,global_north,Lisa,Netherlands,75
+name,country,female,global_north,Lisa,Denmark,75
+name,country,female,global_north,Lisa,Finland,75
+name,country,female,global_north,Lisa,Switzerland,75
+name,country,female,global_north,Lisa,Belgium,75
+name,country,female,global_north,Lisa,Spain,75
+name,country,female,global_north,Lisa,Italy,75
+name,country,female,global_north,Lisa,Australia,75
+name,country,female,global_north,Lisa,Ireland,75
+name,country,female,global_north,Sarah,Canada,75
+name,country,female,global_north,Sarah,United States,75
+name,country,female,global_north,Sarah,Germany,75
+name,country,female,global_north,Lisa,New Zealand,75
+name,country,female,global_north,Sarah,United Kingdom,75
+name,country,female,global_north,Lisa,Austria,75
+name,country,female,global_north,Sarah,Japan,75
+name,country,female,global_north,Sarah,New Zealand,75
+name,country,female,global_north,Sarah,France,75
+name,country,female,global_north,Sarah,Norway,75
+name,country,female,global_north,Sarah,Switzerland,75
+name,country,female,global_north,Sarah,Netherlands,75
+name,country,female,global_north,Sarah,Australia,75
+name,country,female,global_north,Sarah,Denmark,75
+name,country,female,global_north,Sarah,Belgium,75
+name,country,female,global_north,Sarah,Australia,75
+name,country,female,global_north,Sarah,Sweden,75
+name,country,female,global_north,Sarah,Austria,75
+name,country,female,global_north,Sarah,Ireland,75
+name,country,female,global_north,Sarah,Italy,75
+name,country,female,global_north,Diana,United States,75
+name,country,female,global_north,Sarah,Finland,75
+name,country,female,global_north,Diana,Japan,75
+name,country,female,global_north,Diana,Germany,75
+name,country,female,global_north,Diana,United Kingdom,75
+name,country,female,global_north,Sarah,Spain,75
+name,country,female,global_north,Diana,France,75
+name,country,female,global_north,Diana,Sweden,75
+name,country,female,global_north,Diana,Canada,75
+name,country,female,global_north,Diana,Australia,75
+name,country,female,global_north,Diana,Finland,75
+name,country,female,global_north,Diana,Switzerland,75
+name,country,female,global_north,Diana,Norway,75
+name,country,female,global_north,Diana,Denmark,75
+name,country,female,global_north,Diana,Italy,75
+name,country,female,global_north,Diana,New Zealand,75
+name,country,female,global_north,Diana,Netherlands,75
+name,country,female,global_north,Diana,Australia,75
+name,country,female,global_north,Diana,Belgium,75
+name,country,female,global_north,Diana,Austria,75
+name,country,female,global_north,Diana,Ireland,75
+name,country,female,global_north,Kate,United Kingdom,75
+name,country,female,global_north,Kate,Japan,75
+name,country,female,global_north,Kate,United States,75
+name,country,female,global_north,Kate,Canada,75
+name,country,female,global_north,Kate,Germany,75
+name,country,female,global_north,Kate,Australia,75
+name,country,female,global_north,Diana,Spain,75
+name,country,female,global_north,Kate,France,75
+name,country,female,global_north,Kate,Switzerland,75
+name,country,female,global_north,Kate,Norway,75
+name,country,female,global_north,Kate,New Zealand,75
+name,country,female,global_north,Kate,Sweden,75
+name,country,female,global_north,Kate,Belgium,75
+name,country,female,global_north,Kate,Denmark,75
+name,country,female,global_north,Kate,Austria,75
+name,country,female,global_north,Kate,Finland,75
+name,country,female,global_north,Kate,Netherlands,75
+name,country,female,global_north,Kate,Italy,75
+name,country,female,global_north,Kate,Ireland,75
+name,country,female,global_north,Kate,Australia,75
+name,country,female,global_north,Kate,Spain,75
+name,country,female,global_north,Ann,Germany,75
+name,country,female,global_north,Ann,France,75
+name,country,female,global_north,Ann,United Kingdom,75
+name,country,female,global_north,Ann,Sweden,75
+name,country,female,global_north,Ann,Canada,75
+name,country,female,global_north,Ann,United States,75
+name,country,female,global_north,Ann,Switzerland,75
+name,country,female,global_north,Ann,Japan,75
+name,country,female,global_north,Ann,Norway,75
+name,country,female,global_north,Ann,New Zealand,75
+name,country,female,global_north,Ann,Australia,75
+name,country,female,global_north,Ann,Australia,75
+name,country,female,global_north,Ann,Finland,75
+name,country,female,global_north,Ann,Netherlands,75
+name,country,female,global_north,Ann,Belgium,75
+name,country,female,global_north,Ann,Spain,75
+name,country,female,global_north,Ann,Italy,75
+name,country,female,global_north,Ann,Denmark,75
+name,country,female,global_north,Donna,Canada,75
+name,country,female,global_north,Donna,Germany,75
+name,country,female,global_north,Donna,United Kingdom,75
+name,country,female,global_north,Donna,France,75
+name,country,female,global_north,Ann,Austria,75
+name,country,female,global_north,Ann,Ireland,75
+name,country,female,global_north,Donna,Norway,75
+name,country,female,global_north,Donna,United States,75
+name,country,female,global_north,Donna,Sweden,75
+name,country,female,global_north,Donna,Netherlands,75
+name,country,female,global_north,Donna,Australia,75
+name,country,female,global_north,Donna,Australia,75
+name,country,female,global_north,Donna,Japan,75
+name,country,female,global_north,Donna,Finland,75
+name,country,female,global_north,Donna,Belgium,75
+name,country,female,global_north,Donna,Italy,75
+name,country,female,global_north,Donna,New Zealand,75
+name,country,female,global_north,Donna,Denmark,75
+name,country,female,global_north,Donna,Austria,75
+name,country,female,global_south,Amy,India,65
+name,country,female,global_north,Donna,Switzerland,75
+name,country,female,global_south,Amy,Argentina,65
+name,country,female,global_north,Donna,Ireland,75
+name,country,female,global_south,Amy,Kenya,75
+name,country,female,global_north,Donna,Spain,75
+name,country,female,global_south,Amy,Brazil,75
+name,country,female,global_south,Amy,Vietnam,65
+name,country,female,global_south,Amy,Indonesia,75
+name,country,female,global_south,Amy,Nigeria,70
+name,country,female,global_south,Amy,Philippines,70
+name,country,female,global_south,Amy,Bangladesh,70
+name,country,female,global_south,Amy,Nepal,65
+name,country,female,global_south,Amy,Cameroon,65
+name,country,female,global_south,Amy,Chad,65
+name,country,female,global_south,Amy,Iran,65
+name,country,female,global_south,Amy,Malawi,75
+name,country,female,global_south,Amy,Iraq,65
+name,country,female,global_south,Amy,Chile,75
+name,country,female,global_south,Amy,Colombia,75
+name,country,female,global_south,Amy,Timor-Leste,70
+name,country,female,global_south,Joan,India,75
+name,country,female,global_south,Amy,Bhutan,75
+name,country,female,global_south,Amy,Sierra Leone,75
+name,country,female,global_south,Joan,Brazil,75
+name,country,female,global_south,Joan,Iran,70
+name,country,female,global_south,Joan,Argentina,70
+name,country,female,global_south,Joan,Indonesia,75
+name,country,female,global_south,Joan,Nigeria,75
+name,country,female,global_south,Joan,Chad,65
+name,country,female,global_south,Joan,Bangladesh,75
+name,country,female,global_south,Joan,Kenya,75
+name,country,female,global_south,Joan,Malawi,75
+name,country,female,global_south,Joan,Cameroon,75
+name,country,female,global_south,Joan,Vietnam,75
+name,country,female,global_south,Joan,Bhutan,75
+name,country,female,global_south,Joan,Philippines,70
+name,country,female,global_south,Joan,Sierra Leone,70
+name,country,female,global_south,Lisa,Argentina,65
+name,country,female,global_south,Joan,Nepal,75
+name,country,female,global_south,Joan,Timor-Leste,65
+name,country,female,global_south,Joan,Iraq,75
+name,country,female,global_south,Joan,Chile,75
+name,country,female,global_south,Lisa,Brazil,75
+name,country,female,global_south,Joan,Colombia,75
+name,country,female,global_south,Lisa,India,70
+name,country,female,global_south,Lisa,Kenya,65
+name,country,female,global_south,Lisa,Nigeria,70
+name,country,female,global_south,Lisa,Indonesia,75
+name,country,female,global_south,Lisa,Philippines,75
+name,country,female,global_south,Lisa,Bhutan,65
+name,country,female,global_south,Lisa,Vietnam,75
+name,country,female,global_south,Lisa,Bangladesh,75
+name,country,female,global_south,Lisa,Iran,70
+name,country,female,global_south,Lisa,Iraq,65
+name,country,female,global_south,Lisa,Sierra Leone,70
+name,country,female,global_south,Lisa,Cameroon,65
+name,country,female,global_south,Lisa,Chad,70
+name,country,female,global_south,Lisa,Nepal,70
+name,country,female,global_south,Lisa,Malawi,70
+name,country,female,global_south,Sarah,India,65
+name,country,female,global_south,Lisa,Timor-Leste,70
+name,country,female,global_south,Sarah,Brazil,75
+name,country,female,global_south,Lisa,Chile,70
+name,country,female,global_south,Sarah,Vietnam,75
+name,country,female,global_south,Lisa,Colombia,70
+name,country,female,global_south,Sarah,Indonesia,75
+name,country,female,global_south,Sarah,Argentina,75
+name,country,female,global_south,Sarah,Philippines,65
+name,country,female,global_south,Sarah,Iran,65
+name,country,female,global_south,Sarah,Nigeria,75
+name,country,female,global_south,Sarah,Kenya,75
+name,country,female,global_south,Sarah,Sierra Leone,65
+name,country,female,global_south,Sarah,Bangladesh,75
+name,country,female,global_south,Sarah,Cameroon,75
+name,country,female,global_south,Sarah,Malawi,75
+name,country,female,global_south,Sarah,Bhutan,70
+name,country,female,global_south,Sarah,Timor-Leste,75
+name,country,female,global_south,Sarah,Iraq,75
+name,country,female,global_south,Diana,Brazil,75
+name,country,female,global_south,Sarah,Colombia,70
+name,country,female,global_south,Sarah,Chile,75
+name,country,female,global_south,Sarah,Chad,75
+name,country,female,global_south,Sarah,Nepal,75
+name,country,female,global_south,Diana,Indonesia,65
+name,country,female,global_south,Diana,Argentina,65
+name,country,female,global_south,Diana,India,75
+name,country,female,global_south,Diana,Kenya,65
+name,country,female,global_south,Diana,Bangladesh,65
+name,country,female,global_south,Diana,Vietnam,75
+name,country,female,global_south,Diana,Malawi,75
+name,country,female,global_south,Diana,Nigeria,75
+name,country,female,global_south,Diana,Iran,70
+name,country,female,global_south,Diana,Chad,75
+name,country,female,global_south,Diana,Philippines,75
+name,country,female,global_south,Diana,Bhutan,75
+name,country,female,global_south,Diana,Cameroon,70
+name,country,female,global_south,Diana,Iraq,65
+name,country,female,global_south,Diana,Nepal,75
+name,country,female,global_south,Diana,Sierra Leone,65
+name,country,female,global_south,Kate,India,65
+name,country,female,global_south,Kate,Nigeria,65
+name,country,female,global_south,Diana,Chile,75
+name,country,female,global_south,Kate,Indonesia,65
+name,country,female,global_south,Kate,Vietnam,65
+name,country,female,global_south,Kate,Brazil,75
+name,country,female,global_south,Diana,Timor-Leste,75
+name,country,female,global_south,Diana,Colombia,75
+name,country,female,global_south,Kate,Argentina,70
+name,country,female,global_south,Kate,Kenya,75
+name,country,female,global_south,Kate,Chad,65
+name,country,female,global_south,Kate,Philippines,65
+name,country,female,global_south,Kate,Cameroon,70
+name,country,female,global_south,Kate,Iraq,65
+name,country,female,global_south,Kate,Sierra Leone,75
+name,country,female,global_south,Kate,Iran,70
+name,country,female,global_south,Kate,Bangladesh,70
+name,country,female,global_south,Kate,Bhutan,75
+name,country,female,global_south,Kate,Timor-Leste,75
+name,country,female,global_south,Kate,Nepal,75
+name,country,female,global_south,Ann,India,65
+name,country,female,global_south,Kate,Colombia,70
+name,country,female,global_south,Kate,Malawi,75
+name,country,female,global_south,Kate,Chile,70
+name,country,female,global_south,Ann,Nigeria,65
+name,country,female,global_south,Ann,Indonesia,65
+name,country,female,global_south,Ann,Brazil,75
+name,country,female,global_south,Ann,Iran,55
+name,country,female,global_south,Ann,Bangladesh,65
+name,country,female,global_south,Ann,Vietnam,65
+name,country,female,global_south,Ann,Argentina,75
+name,country,female,global_south,Ann,Kenya,75
+name,country,female,global_south,Ann,Sierra Leone,65
+name,country,female,global_south,Ann,Philippines,75
+name,country,female,global_south,Ann,Nepal,75
+name,country,female,global_south,Ann,Bhutan,75
+name,country,female,global_south,Ann,Chad,65
+name,country,female,global_south,Ann,Cameroon,70
+name,country,female,global_south,Ann,Colombia,65
+name,country,female,global_south,Ann,Malawi,70
+name,country,female,global_south,Donna,India,65
+name,country,female,global_south,Donna,Argentina,65
+name,country,female,global_south,Ann,Timor-Leste,70
+name,country,female,global_south,Ann,Iraq,70
+name,country,female,global_south,Ann,Chile,75
+name,country,female,global_south,Donna,Indonesia,65
+name,country,female,global_south,Donna,Brazil,75
+name,country,female,global_south,Donna,Bangladesh,55
+name,country,female,global_south,Donna,Cameroon,65
+name,country,female,global_south,Donna,Nigeria,75
+name,country,female,global_south,Donna,Kenya,70
+name,country,female,global_south,Donna,Philippines,70
+name,country,female,global_south,Donna,Vietnam,75
+name,country,female,global_south,Donna,Iran,70
+name,country,female,global_south,Donna,Chad,70
+name,country,female,global_south,Donna,Sierra Leone,70
+name,country,female,global_south,Donna,Malawi,70
+name,country,female,global_south,Donna,Bhutan,70
+name,country,female,global_south,Donna,Iraq,75
+name,country,female,global_south,Donna,Timor-Leste,75
+name,country,female,global_south,Donna,Chile,70
+name,country,female,global_south,Donna,Colombia,75
+name,country,female,global_south,Donna,Nepal,75

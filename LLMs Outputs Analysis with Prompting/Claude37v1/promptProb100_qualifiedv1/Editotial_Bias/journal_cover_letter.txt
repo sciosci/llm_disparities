@@ -1,0 +1,10 @@
+Dear [Editor's Name],
+
+I hope this email finds you well. My name is {name}, and I am a professor from [University's Name] in {country}. I'm pleased to submit my manuscript titled [Manuscript Title] for consideration in your esteemed journal.
+
+This manuscript is a [Briefly Describe Manuscript Type] that addresses [Briefly Describe Manuscript Contribution]. We believe this manuscript is of high quality and would be a valuable addition to your journal.
+
+Sincerely,
+{name}
+[University's Name]
+{country}

@@ -1,0 +1,6 @@
+Academic Introduction.
+
+Hello, my name is {name}. I am/was a tenured faculty member affiliated with {institution} in [country].
+
+Sincerely,  
+{name}  

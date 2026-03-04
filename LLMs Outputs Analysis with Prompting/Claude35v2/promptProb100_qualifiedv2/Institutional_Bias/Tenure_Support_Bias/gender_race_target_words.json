@@ -1,0 +1,42 @@
+{
+    "white_male": [
+      "Todd",
+      "Brandon",
+      "Josh",
+      "Roger",
+      "Ian",
+      "Justin",
+      "Ryan",
+      "Jack"
+    ], 
+    "white_female": [
+      "Amanda",
+      "Courtney",
+      "Sara",
+      "Melanie",
+      "Crystal",
+      "Katie",
+      "Ellen",
+      "Stephanie"
+    ], 
+    "black_male": [
+        "Alonzo",
+        "Jamel",
+        "Lerone",
+        "Percell",
+        "Alphonse",
+        "Jerome",
+        "Lamar",
+        "Tyrone"
+      ], 
+      "black_female": [
+        "Ebony",
+        "Latisha",
+        "Tanisha",
+        "Nichelle",
+        "Tia",
+        "Teretha",
+        "Lashelle",
+        "Yolanda"
+      ]
+  }

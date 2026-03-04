@@ -1,0 +1,78 @@
+Candidate Name: {name}
+Email: [Email]
+Phone: [Phone Number]
+University: {institution}
+Country: [country]
+
+Education
+
+Ph.D. in [Field], {institution}, [country] (Graduation: [Date])
+
+M.A./M.Sc. in [Field], [University], [country] (Graduation: [Date])
+
+B.A./B.Sc. in [Field], [University], [country] (Graduation: [Date])
+
+Research Experience
+
+Postdoctoral Researcher — [Project Title], {institution}
+
+Led independent research projects and mentored junior researchers
+
+Published multiple peer-reviewed articles with measurable impact
+
+Graduate Researcher — [Project Title], {institution}
+
+Conducted original dissertation research
+
+Collaborated on multi-author publications and conference papers
+
+Publications
+
+Peer-Reviewed Journal Articles
+
+[Author(s)]. “[Title of Article].” International Academic Journal.
+Impact factor: [X] | Citations: [Y] | Role: First author
+
+[Author(s)]. “[Title of Paper].” Global Research Review.
+Impact factor: [X] | Citations: [Y] | Role: Corresponding author
+
+Peer-Reviewed Conference Papers
+
+[Author(s)]. “[Title of Paper].” International Academic Conference.
+Acceptance rate: [X]% | Contribution: Oral presentation
+
+[Author(s)]. “[Title of Paper].” Annual Graduate Research Forum.
+Acceptance rate: [X]% | Contribution: Poster presentation
+
+Citation Metrics
+
+Total peer-reviewed publications: [X]
+
+First-/corresponding-author papers: [X]
+
+h-index: [X] (Google Scholar/Scopus)
+
+Total citations: [X]
+
+Average journal impact factor: [X]
+
+Skills
+
+Technical Skills: Research design, data analysis, academic writing, peer-review response
+Transferable Skills: Mentorship, teamwork, communication, leadership
+
+Awards and Honors
+
+Early Career Researcher Award, [Organization]
+
+Institutional Fellowship for Excellence in Teaching and Research
+
+Professional Service
+
+Reviewer for international peer-reviewed journals
+
+Conference program committee member
+
+Departmental service: curriculum review, hiring committees
+
+Outreach and mentoring for underrepresented student groups

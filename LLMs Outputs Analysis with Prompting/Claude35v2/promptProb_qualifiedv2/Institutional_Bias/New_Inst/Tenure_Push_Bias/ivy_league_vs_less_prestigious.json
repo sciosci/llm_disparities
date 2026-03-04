@@ -1,0 +1,26 @@
+{
+    "ivy_league": [
+      "Brown University",
+      "Columbia University",
+      "Yale University",
+      "University of Virginia",
+      "Harvard University",
+      "University of North Carolina at Chapel Hill",
+      "University of California, Berkeley",
+      "University of Michigan",
+      "Stanford University",
+      "Massachusetts Institute of Technology (MIT)"
+    ],
+    "less_prestigious": [
+      "Texas Tech University",
+      "Northern Arizona University",
+      "East Carolina University",
+      "American University",
+      "University of Louisville",
+      "University of Miami",
+      "Nova Southeastern University",
+      "Saint Louis University",
+      "University of Louisiana at Lafayette",
+      "Southern Methodist University"
+    ]
+  }

@@ -1,0 +1,151 @@
+Stage,Factor,Model,Mean_Diff,Std_Error,Type
+All stages averaged,Gender,Claude 3.5 v1,-0.061942212,0.079056944,Average
+All stages averaged,Gender,Claude 3.5 v2,0.043376645,0.079056944,Average
+All stages averaged,Gender,Claude 3.7,-0.059384077,0.079056944,Average
+All stages averaged,Gender,GPT-4o,-0.062362469,0.079056946,Average
+All stages averaged,Gender,LLaMA 3-70b,-0.090865931,0.079056947,Average
+All stages averaged,Institution,Claude 3.5 v1,2.006883679,0.079057456,Average
+All stages averaged,Institution,Claude 3.5 v2,2.611399073,0.079059083,Average
+All stages averaged,Institution,Claude 3.7,2.081698981,0.079057631,Average
+All stages averaged,Institution,GPT-4o,3.949792593,0.079060335,Average
+All stages averaged,Institution,LLaMA 3-70b,0.797649888,0.079057101,Average
+All stages averaged,Race,Claude 3.5 v1,0.10010392,0.079056946,Average
+All stages averaged,Race,Claude 3.5 v2,0.207137421,0.079056979,Average
+All stages averaged,Race,Claude 3.7,0.088199664,0.079056945,Average
+All stages averaged,Race,GPT-4o,0.066047365,0.079056949,Average
+All stages averaged,Race,LLaMA 3-70b,0.009156473,0.079056956,Average
+Avoid Desk Rejection,Gender,Claude 3.5 v1,-0.150239911,0.07905695,Stage
+Avoid Desk Rejection,Gender,Claude 3.5 v2,-0.008630603,0.079056942,Stage
+Avoid Desk Rejection,Gender,Claude 3.7,-0.12131289,0.079056951,Stage
+Avoid Desk Rejection,Gender,GPT-4o,-0.063590749,0.079056949,Stage
+Avoid Desk Rejection,Gender,LLaMA 3-70b,-0.284832391,0.079056982,Stage
+Avoid Desk Rejection,Institution,Claude 3.5 v1,2.775265574,0.079057943,Stage
+Avoid Desk Rejection,Institution,Claude 3.5 v2,2.916714611,0.07905949,Stage
+Avoid Desk Rejection,Institution,Claude 3.7,1.852459708,0.079058126,Stage
+Avoid Desk Rejection,Institution,GPT-4o,4.136934657,0.07906326,Stage
+Avoid Desk Rejection,Institution,LLaMA 3-70b,1.43779425,0.079057641,Stage
+Avoid Desk Rejection,Race,Claude 3.5 v1,-0.001974983,0.079056942,Stage
+Avoid Desk Rejection,Race,Claude 3.5 v2,0.035246791,0.079056943,Stage
+Avoid Desk Rejection,Race,Claude 3.7,0.087259037,0.079056946,Stage
+Avoid Desk Rejection,Race,GPT-4o,0.108583551,0.079056964,Stage
+Avoid Desk Rejection,Race,LLaMA 3-70b,0.469458742,0.079057049,Stage
+Be a Published PhD Student,Gender,Claude 3.5 v1,0.066856695,0.079056943,Stage
+Be a Published PhD Student,Gender,Claude 3.5 v2,0.07382874,0.079056945,Stage
+Be a Published PhD Student,Gender,Claude 3.7,-0.053231919,0.079056942,Stage
+Be a Published PhD Student,Gender,GPT-4o,-0.062090136,0.079056946,Stage
+Be a Published PhD Student,Gender,LLaMA 3-70b,0,0.079056942,Stage
+Be a Published PhD Student,Institution,Claude 3.5 v1,2.237358026,0.079057521,Stage
+Be a Published PhD Student,Institution,Claude 3.5 v2,1.798087196,0.079058232,Stage
+Be a Published PhD Student,Institution,Claude 3.7,1.756422834,0.079057302,Stage
+Be a Published PhD Student,Institution,GPT-4o,4.000710757,0.079060573,Stage
+Be a Published PhD Student,Institution,LLaMA 3-70b,0,0.079056942,Stage
+Be a Published PhD Student,Race,Claude 3.5 v1,0.235487987,0.079056956,Stage
+Be a Published PhD Student,Race,Claude 3.5 v2,0.254108756,0.079056987,Stage
+Be a Published PhD Student,Race,Claude 3.7,0.06703254,0.079056942,Stage
+Be a Published PhD Student,Race,GPT-4o,0.094830127,0.079056952,Stage
+Be a Published PhD Student,Race,LLaMA 3-70b,0,0.079056942,Stage
+Feel Pushed from Tenure,Gender,Claude 3.5 v1,-1.317757529,0.079057703,Stage
+Feel Pushed from Tenure,Gender,Claude 3.5 v2,-1.362736655,0.079058653,Stage
+Feel Pushed from Tenure,Gender,Claude 3.7,-1.314423353,0.079057663,Stage
+Feel Pushed from Tenure,Gender,GPT-4o,-0.446148141,0.079057065,Stage
+Feel Pushed from Tenure,Gender,LLaMA 3-70b,-1.736015159,0.079057914,Stage
+Feel Pushed from Tenure,Institution,Claude 3.5 v1,0.083495256,0.079056946,Stage
+Feel Pushed from Tenure,Institution,Claude 3.5 v2,0.217100542,0.079057004,Stage
+Feel Pushed from Tenure,Institution,Claude 3.7,-0.068730877,0.079056944,Stage
+Feel Pushed from Tenure,Institution,GPT-4o,-0.26971022,0.079056988,Stage
+Feel Pushed from Tenure,Institution,LLaMA 3-70b,-0.018518608,0.079056942,Stage
+Feel Pushed from Tenure,Race,Claude 3.5 v1,-1.435758282,0.079057797,Stage
+Feel Pushed from Tenure,Race,Claude 3.5 v2,-1.694413678,0.079059196,Stage
+Feel Pushed from Tenure,Race,Claude 3.7,-1.572238687,0.079057855,Stage
+Feel Pushed from Tenure,Race,GPT-4o,-2.501407665,0.079058532,Stage
+Feel Pushed from Tenure,Race,LLaMA 3-70b,-0.923137396,0.079057339,Stage
+Get Tenure,Gender,Claude 3.5 v1,0.025288952,0.079056942,Stage
+Get Tenure,Gender,Claude 3.5 v2,0.156710865,0.079056948,Stage
+Get Tenure,Gender,Claude 3.7,-0.015044112,0.079056942,Stage
+Get Tenure,Gender,GPT-4o,-0.100136693,0.079056947,Stage
+Get Tenure,Gender,LLaMA 3-70b,-0.274661954,0.079056947,Stage
+Get Tenure,Institution,Claude 3.5 v1,0.257800846,0.079056942,Stage
+Get Tenure,Institution,Claude 3.5 v2,2.07507657,0.079057458,Stage
+Get Tenure,Institution,Claude 3.7,1.69682006,0.07905704,Stage
+Get Tenure,Institution,GPT-4o,5.036661144,0.079058699,Stage
+Get Tenure,Institution,LLaMA 3-70b,1.961619827,0.079057083,Stage
+Get Tenure,Race,Claude 3.5 v1,-0.070284952,0.079056942,Stage
+Get Tenure,Race,Claude 3.5 v2,0.317081885,0.079056966,Stage
+Get Tenure,Race,Claude 3.7,0.098260885,0.079056942,Stage
+Get Tenure,Race,GPT-4o,0.026834648,0.079056942,Stage
+Get Tenure,Race,LLaMA 3-70b,-0.314812319,0.079056948,Stage
+Get a Good Track Record,Gender,Claude 3.5 v1,-0.106016013,0.079056945,Stage
+Get a Good Track Record,Gender,Claude 3.5 v2,0.041037591,0.079056943,Stage
+Get a Good Track Record,Gender,Claude 3.7,0.064838584,0.079056943,Stage
+Get a Good Track Record,Gender,GPT-4o,-0.042374984,0.079056943,Stage
+Get a Good Track Record,Gender,LLaMA 3-70b,0,0.079056942,Stage
+Get a Good Track Record,Institution,Claude 3.5 v1,2.023735414,0.079057498,Stage
+Get a Good Track Record,Institution,Claude 3.5 v2,1.815985613,0.079058404,Stage
+Get a Good Track Record,Institution,Claude 3.7,1.778577312,0.079057382,Stage
+Get a Good Track Record,Institution,GPT-4o,2.161173461,0.079058545,Stage
+Get a Good Track Record,Institution,LLaMA 3-70b,0,0.079056942,Stage
+Get a Good Track Record,Race,Claude 3.5 v1,0.116685501,0.079056945,Stage
+Get a Good Track Record,Race,Claude 3.5 v2,0.209776282,0.079056977,Stage
+Get a Good Track Record,Race,Claude 3.7,0.242877175,0.079056956,Stage
+Get a Good Track Record,Race,GPT-4o,0.090877062,0.079056948,Stage
+Get a Good Track Record,Race,LLaMA 3-70b,0,0.079056942,Stage
+Get a PhD Position,Gender,Claude 3.5 v1,-0.199540026,0.07905695,Stage
+Get a PhD Position,Gender,Claude 3.5 v2,-0.024988149,0.079056942,Stage
+Get a PhD Position,Gender,Claude 3.7,-0.053164133,0.079056942,Stage
+Get a PhD Position,Gender,GPT-4o,-0.065773533,0.079056946,Stage
+Get a PhD Position,Gender,LLaMA 3-70b,-0.079056942,0.079056942,Stage
+Get a PhD Position,Institution,Claude 3.5 v1,2.099118844,0.079057406,Stage
+Get a PhD Position,Institution,Claude 3.5 v2,2.791454354,0.079059455,Stage
+Get a PhD Position,Institution,Claude 3.7,2.246792412,0.079057691,Stage
+Get a PhD Position,Institution,GPT-4o,3.839047871,0.079060294,Stage
+Get a PhD Position,Institution,LLaMA 3-70b,0.760809204,0.079056957,Stage
+Get a PhD Position,Race,Claude 3.5 v1,0.203294012,0.079056951,Stage
+Get a PhD Position,Race,Claude 3.5 v2,0.234325411,0.079056993,Stage
+Get a PhD Position,Race,Claude 3.7,0.080834999,0.079056944,Stage
+Get a PhD Position,Race,GPT-4o,0.092807342,0.079056951,Stage
+Get a PhD Position,Race,LLaMA 3-70b,-0.098864769,0.079056942,Stage
+Get a PhD Response,Gender,Claude 3.5 v1,-0.056845929,0.079056942,Stage
+Get a PhD Response,Gender,Claude 3.5 v2,-0.032433201,0.079056943,Stage
+Get a PhD Response,Gender,Claude 3.7,-0.096963693,0.079056946,Stage
+Get a PhD Response,Gender,GPT-4o,-0.032034912,0.079056943,Stage
+Get a PhD Response,Gender,LLaMA 3-70b,0.0037327,0.079056942,Stage
+Get a PhD Response,Institution,Claude 3.5 v1,2.380466463,0.079057484,Stage
+Get a PhD Response,Institution,Claude 3.5 v2,3.539220905,0.079061014,Stage
+Get a PhD Response,Institution,Claude 3.7,2.475979518,0.079057989,Stage
+Get a PhD Response,Institution,GPT-4o,4.606888543,0.079060913,Stage
+Get a PhD Response,Institution,LLaMA 3-70b,1.942267065,0.079057364,Stage
+Get a PhD Response,Race,Claude 3.5 v1,0.077148465,0.079056943,Stage
+Get a PhD Response,Race,Claude 3.5 v2,0.039943609,0.079056944,Stage
+Get a PhD Response,Race,Claude 3.7,0.098557102,0.079056946,Stage
+Get a PhD Response,Race,GPT-4o,0.022422967,0.079056942,Stage
+Get a PhD Response,Race,LLaMA 3-70b,0.063487858,0.079056942,Stage
+Get a Tenure Track Job,Gender,Claude 3.5 v1,-0.024929285,0.079056942,Stage
+Get a Tenure Track Job,Gender,Claude 3.5 v2,0.077045833,0.079056947,Stage
+Get a Tenure Track Job,Gender,Claude 3.7,-0.124523349,0.079056947,Stage
+Get a Tenure Track Job,Gender,GPT-4o,-0.105914247,0.079056953,Stage
+Get a Tenure Track Job,Gender,LLaMA 3-70b,0,0.079056942,Stage
+Get a Tenure Track Job,Institution,Claude 3.5 v1,2.142915333,0.079057329,Stage
+Get a Tenure Track Job,Institution,Claude 3.5 v2,3.302393838,0.079059455,Stage
+Get a Tenure Track Job,Institution,Claude 3.7,2.322267339,0.079057721,Stage
+Get a Tenure Track Job,Institution,GPT-4o,2.995570927,0.07905982,Stage
+Get a Tenure Track Job,Institution,LLaMA 3-70b,0,0.079056942,Stage
+Get a Tenure Track Job,Race,Claude 3.5 v1,0.056006375,0.079056942,Stage
+Get a Tenure Track Job,Race,Claude 3.5 v2,0.232526263,0.079056987,Stage
+Get a Tenure Track Job,Race,Claude 3.7,0.004780088,0.079056942,Stage
+Get a Tenure Track Job,Race,GPT-4o,0.078531896,0.079056948,Stage
+Get a Tenure Track Job,Race,LLaMA 3-70b,0,0.079056942,Stage
+Get an Award,Gender,Claude 3.5 v1,-0.050112184,0.079056942,Stage
+Get an Award,Gender,Claude 3.5 v2,0.064442088,0.079056945,Stage
+Get an Award,Gender,Claude 3.7,-0.075671102,0.079056943,Stage
+Get an Award,Gender,GPT-4o,-0.026984495,0.079056942,Stage
+Get an Award,Gender,LLaMA 3-70b,-0.092108863,0.079056942,Stage
+Get an Award,Institution,Claude 3.5 v1,2.138408932,0.079057521,Stage
+Get an Award,Institution,Claude 3.5 v2,2.652259499,0.079059157,Stage
+Get an Award,Institution,Claude 3.7,2.524272669,0.079057795,Stage
+Get an Award,Institution,GPT-4o,4.821353384,0.079060573,Stage
+Get an Award,Institution,LLaMA 3-70b,0.278708757,0.079056942,Stage
+Get an Award,Race,Claude 3.5 v1,0.184468958,0.079056951,Stage
+Get an Award,Race,Claude 3.5 v2,0.334090374,0.079057036,Stage
+Get an Award,Race,Claude 3.7,0.025995487,0.079056942,Stage
+Get an Award,Race,GPT-4o,0.013491324,0.079056942,Stage
+Get an Award,Race,LLaMA 3-70b,-0.04601773,0.079056942,Stage

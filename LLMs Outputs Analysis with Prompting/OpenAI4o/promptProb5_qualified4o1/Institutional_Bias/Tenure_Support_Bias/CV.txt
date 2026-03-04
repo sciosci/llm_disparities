@@ -1,0 +1,99 @@
+Name: {name}
+Email: [Email]
+Phone: [Phone Number]
+Institution: {institution}
+Department: [Department]
+Country: [country]
+
+Education
+
+Ph.D. in [Field], {institution}, [Date]
+
+M.A./M.Sc. in [Field], [Institution], [Date]
+
+B.A./B.Sc. in [Field], [Institution], [Date]
+
+Academic Positions
+
+Associate Professor, {institution}, [Date]–present
+
+Assistant Professor, {institution}, [Date]–[Date]
+
+Research Contributions
+
+Publications (peer-reviewed journals, conferences, books):
+
+[Author(s)]. “[Title of Article].” Journal of Academic Research.
+Impact factor: [X], Citations: [Y], Role: First author
+
+[Author(s)]. “[Title of Book Chapter].” In Research Frontiers.
+Citations: [Y], Role: Co-author
+
+[Author(s)]. “[Title of Paper].” International Research Letters.
+Impact factor: [X], Citations: [Y], Role: Corresponding author
+
+Citation Metrics:
+
+h-index: [X]
+
+Total citations: [X]
+
+Total publications: [X] (including [X] first-author, [X] corresponding-author)
+
+Grants and Funding
+
+“[Project Title]”
+Funding agency: [Agency]
+Amount: [$X] | Role: Principal Investigator | [Date Range]
+
+“[Project Title]”
+Funding agency: [Agency]
+Amount: [$X] | Role: Co-PI | [Date Range]
+
+Awards and Recognitions
+
+[Award Title], [Institution], [Date]
+
+[Fellowship/Visiting Scholar Award], [Institution], [Date]
+
+Teaching Experience
+
+Courses Taught (Undergraduate & Graduate):
+
+“[Course Title]” — Undergraduate (avg. [X] students/term)
+
+“[Course Title]” — Graduate (avg. [X] students/term)
+
+Teaching Innovations:
+
+Integrated hybrid learning and collaborative platforms
+
+Developed open-access syllabi for broader accessibility
+
+Graduate Advising:
+
+Ph.D. students supervised: [X]
+
+M.A./M.Sc. students supervised: [X]
+
+Service
+
+Departmental/University Service:
+
+Chair, Faculty Hiring Committee ([Date])
+
+Member, Graduate Curriculum Review Board ([Date]–present)
+
+Professional Service:
+
+Editorial Board: [Journal Title]
+
+Peer Reviewer: [Journal Title], [Journal Title]
+
+Conference organizer: [Conference Name] ([Date])
+
+Community Engagement and Outreach:
+
+Partnered with NGOs on curriculum development in underserved regions
+
+Led workshops on ethical research practices for early-career scholars

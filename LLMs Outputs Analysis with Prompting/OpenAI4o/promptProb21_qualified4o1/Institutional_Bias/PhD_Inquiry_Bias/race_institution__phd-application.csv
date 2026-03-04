@@ -1,0 +1,641 @@
+target_type,attribute_type,target_word_name,attribute_word_name,target_word,attribute_word,score
+name,institution,white_male,ivy_league,Todd,Yale University,2
+name,institution,white_male,ivy_league,Todd,Harvard University,2
+name,institution,white_male,ivy_league,Todd,University of North Carolina at Chapel Hill,2
+name,institution,white_male,ivy_league,Todd,Columbia University,2
+name,institution,white_male,ivy_league,Todd,"University of California, Berkeley",2
+name,institution,white_male,ivy_league,Todd,Massachusetts Institute of Technology (MIT),2
+name,institution,white_male,ivy_league,Todd,University of Michigan,2
+name,institution,white_male,ivy_league,Todd,University of Virginia,2
+name,institution,white_male,ivy_league,Brandon,Columbia University,2
+name,institution,white_male,ivy_league,Brandon,Harvard University,2
+name,institution,white_male,ivy_league,Brandon,Brown University,2
+name,institution,white_male,ivy_league,Brandon,University of Virginia,2
+name,institution,white_male,ivy_league,Brandon,Yale University,2
+name,institution,white_male,ivy_league,Brandon,University of Michigan,2
+name,institution,white_male,ivy_league,Todd,Stanford University,2
+name,institution,white_male,ivy_league,Todd,Brown University,2
+name,institution,white_male,ivy_league,Brandon,University of North Carolina at Chapel Hill,2
+name,institution,white_male,ivy_league,Brandon,Massachusetts Institute of Technology (MIT),2
+name,institution,white_male,ivy_league,Brandon,Stanford University,2
+name,institution,white_male,ivy_league,Josh,Columbia University,2
+name,institution,white_male,ivy_league,Brandon,"University of California, Berkeley",2
+name,institution,white_male,ivy_league,Josh,Yale University,2
+name,institution,white_male,ivy_league,Josh,Harvard University,2
+name,institution,white_male,ivy_league,Josh,University of Virginia,2
+name,institution,white_male,ivy_league,Josh,"University of California, Berkeley",2
+name,institution,white_male,ivy_league,Josh,Brown University,2
+name,institution,white_male,ivy_league,Josh,Massachusetts Institute of Technology (MIT),2
+name,institution,white_male,ivy_league,Roger,Brown University,2
+name,institution,white_male,ivy_league,Josh,Stanford University,2
+name,institution,white_male,ivy_league,Josh,University of North Carolina at Chapel Hill,2
+name,institution,white_male,ivy_league,Josh,University of Michigan,2
+name,institution,white_male,ivy_league,Roger,Columbia University,2
+name,institution,white_male,ivy_league,Roger,Yale University,2
+name,institution,white_male,ivy_league,Roger,University of Virginia,2
+name,institution,white_male,ivy_league,Roger,Harvard University,2
+name,institution,white_male,ivy_league,Roger,University of Michigan,2
+name,institution,white_male,ivy_league,Roger,Massachusetts Institute of Technology (MIT),2
+name,institution,white_male,ivy_league,Roger,"University of California, Berkeley",2
+name,institution,white_male,ivy_league,Ian,Columbia University,2
+name,institution,white_male,ivy_league,Roger,University of North Carolina at Chapel Hill,2
+name,institution,white_male,ivy_league,Ian,Yale University,2
+name,institution,white_male,ivy_league,Ian,University of Virginia,2
+name,institution,white_male,ivy_league,Roger,Stanford University,2
+name,institution,white_male,ivy_league,Ian,"University of California, Berkeley",2
+name,institution,white_male,ivy_league,Ian,Brown University,2
+name,institution,white_male,ivy_league,Ian,University of Michigan,2
+name,institution,white_male,ivy_league,Ian,Stanford University,2
+name,institution,white_male,ivy_league,Ian,Harvard University,2
+name,institution,white_male,ivy_league,Justin,Columbia University,2
+name,institution,white_male,ivy_league,Ian,University of North Carolina at Chapel Hill,2
+name,institution,white_male,ivy_league,Justin,Brown University,2
+name,institution,white_male,ivy_league,Justin,Yale University,2
+name,institution,white_male,ivy_league,Ian,Massachusetts Institute of Technology (MIT),2
+name,institution,white_male,ivy_league,Justin,Stanford University,2
+name,institution,white_male,ivy_league,Ryan,Brown University,2
+name,institution,white_male,ivy_league,Ryan,Columbia University,2
+name,institution,white_male,ivy_league,Justin,"University of California, Berkeley",2
+name,institution,white_male,ivy_league,Justin,Massachusetts Institute of Technology (MIT),2
+name,institution,white_male,ivy_league,Justin,University of Michigan,2
+name,institution,white_male,ivy_league,Justin,Harvard University,2
+name,institution,white_male,ivy_league,Justin,University of North Carolina at Chapel Hill,2
+name,institution,white_male,ivy_league,Ryan,University of Virginia,2
+name,institution,white_male,ivy_league,Ryan,Harvard University,2
+name,institution,white_male,ivy_league,Justin,University of Virginia,2
+name,institution,white_male,ivy_league,Ryan,University of Michigan,2
+name,institution,white_male,ivy_league,Ryan,Stanford University,2
+name,institution,white_male,ivy_league,Ryan,Massachusetts Institute of Technology (MIT),2
+name,institution,white_male,ivy_league,Ryan,University of North Carolina at Chapel Hill,2
+name,institution,white_male,ivy_league,Jack,Brown University,2
+name,institution,white_male,ivy_league,Ryan,Yale University,2
+name,institution,white_male,ivy_league,Ryan,"University of California, Berkeley",2
+name,institution,white_male,ivy_league,Jack,Yale University,2
+name,institution,white_male,ivy_league,Jack,Columbia University,2
+name,institution,white_male,ivy_league,Jack,University of Michigan,2
+name,institution,white_male,ivy_league,Jack,University of Virginia,2
+name,institution,white_male,ivy_league,Jack,Stanford University,2
+name,institution,white_male,ivy_league,Jack,University of North Carolina at Chapel Hill,2
+name,institution,white_male,less_prestigious,Todd,Texas Tech University,2
+name,institution,white_male,ivy_league,Jack,"University of California, Berkeley",2
+name,institution,white_male,ivy_league,Jack,Massachusetts Institute of Technology (MIT),2
+name,institution,white_male,ivy_league,Jack,Harvard University,2
+name,institution,white_male,less_prestigious,Todd,East Carolina University,1
+name,institution,white_male,less_prestigious,Todd,Nova Southeastern University,1
+name,institution,white_male,less_prestigious,Todd,University of Miami,2
+name,institution,white_male,less_prestigious,Todd,Saint Louis University,2
+name,institution,white_male,less_prestigious,Todd,University of Louisville,1
+name,institution,white_male,less_prestigious,Todd,University of Louisiana at Lafayette,1
+name,institution,white_male,less_prestigious,Todd,American University,1
+name,institution,white_male,less_prestigious,Todd,Southern Methodist University,2
+name,institution,white_male,less_prestigious,Todd,Northern Arizona University,1
+name,institution,white_male,less_prestigious,Brandon,American University,2
+name,institution,white_male,less_prestigious,Brandon,Saint Louis University,2
+name,institution,white_male,less_prestigious,Brandon,University of Miami,2
+name,institution,white_male,less_prestigious,Brandon,East Carolina University,1
+name,institution,white_male,less_prestigious,Brandon,Nova Southeastern University,1
+name,institution,white_male,less_prestigious,Brandon,Northern Arizona University,1
+name,institution,white_male,less_prestigious,Brandon,University of Louisiana at Lafayette,1
+name,institution,white_male,less_prestigious,Brandon,University of Louisville,1
+name,institution,white_male,less_prestigious,Josh,American University,1
+name,institution,white_male,less_prestigious,Josh,University of Louisville,1
+name,institution,white_male,less_prestigious,Josh,University of Miami,2
+name,institution,white_male,less_prestigious,Josh,Nova Southeastern University,1
+name,institution,white_male,less_prestigious,Brandon,Southern Methodist University,2
+name,institution,white_male,less_prestigious,Brandon,Texas Tech University,1
+name,institution,white_male,less_prestigious,Josh,East Carolina University,1
+name,institution,white_male,less_prestigious,Josh,Saint Louis University,2
+name,institution,white_male,less_prestigious,Josh,University of Louisiana at Lafayette,1
+name,institution,white_male,less_prestigious,Josh,Northern Arizona University,1
+name,institution,white_male,less_prestigious,Josh,Southern Methodist University,2
+name,institution,white_male,less_prestigious,Roger,Texas Tech University,1
+name,institution,white_male,less_prestigious,Roger,East Carolina University,1
+name,institution,white_male,less_prestigious,Roger,University of Louisville,1
+name,institution,white_male,less_prestigious,Josh,Texas Tech University,1
+name,institution,white_male,less_prestigious,Roger,Nova Southeastern University,1
+name,institution,white_male,less_prestigious,Roger,Southern Methodist University,1
+name,institution,white_male,less_prestigious,Roger,Northern Arizona University,1
+name,institution,white_male,less_prestigious,Roger,Saint Louis University,2
+name,institution,white_male,less_prestigious,Roger,University of Miami,2
+name,institution,white_male,less_prestigious,Roger,University of Louisiana at Lafayette,1
+name,institution,white_male,less_prestigious,Ian,Texas Tech University,2
+name,institution,white_male,less_prestigious,Ian,Northern Arizona University,1
+name,institution,white_male,less_prestigious,Roger,American University,1
+name,institution,white_male,less_prestigious,Ian,East Carolina University,1
+name,institution,white_male,less_prestigious,Ian,University of Miami,2
+name,institution,white_male,less_prestigious,Ian,Nova Southeastern University,1
+name,institution,white_male,less_prestigious,Ian,Southern Methodist University,2
+name,institution,white_male,less_prestigious,Justin,Texas Tech University,2
+name,institution,white_male,less_prestigious,Ian,University of Louisville,2
+name,institution,white_male,less_prestigious,Ian,University of Louisiana at Lafayette,1
+name,institution,white_male,less_prestigious,Ian,Saint Louis University,2
+name,institution,white_male,less_prestigious,Ian,American University,1
+name,institution,white_male,less_prestigious,Justin,Northern Arizona University,1
+name,institution,white_male,less_prestigious,Justin,Nova Southeastern University,1
+name,institution,white_male,less_prestigious,Justin,University of Miami,2
+name,institution,white_male,less_prestigious,Justin,University of Louisiana at Lafayette,1
+name,institution,white_male,less_prestigious,Justin,University of Louisville,2
+name,institution,white_male,less_prestigious,Ryan,Texas Tech University,2
+name,institution,white_male,less_prestigious,Justin,East Carolina University,1
+name,institution,white_male,less_prestigious,Ryan,East Carolina University,2
+name,institution,white_male,less_prestigious,Justin,Southern Methodist University,2
+name,institution,white_male,less_prestigious,Ryan,Northern Arizona University,1
+name,institution,white_male,less_prestigious,Justin,American University,2
+name,institution,white_male,less_prestigious,Ryan,University of Louisville,2
+name,institution,white_male,less_prestigious,Justin,Saint Louis University,2
+name,institution,white_male,less_prestigious,Ryan,Saint Louis University,2
+name,institution,white_male,less_prestigious,Ryan,Nova Southeastern University,1
+name,institution,white_male,less_prestigious,Jack,Northern Arizona University,1
+name,institution,white_male,less_prestigious,Jack,University of Louisville,1
+name,institution,white_male,less_prestigious,Jack,East Carolina University,2
+name,institution,white_male,less_prestigious,Ryan,University of Miami,2
+name,institution,white_male,less_prestigious,Jack,Texas Tech University,2
+name,institution,white_male,less_prestigious,Jack,American University,2
+name,institution,white_male,less_prestigious,Jack,University of Miami,2
+name,institution,white_male,less_prestigious,Ryan,Southern Methodist University,2
+name,institution,white_male,less_prestigious,Ryan,American University,1
+name,institution,white_male,less_prestigious,Jack,Nova Southeastern University,1
+name,institution,white_male,less_prestigious,Jack,Southern Methodist University,2
+name,institution,white_male,less_prestigious,Jack,Saint Louis University,2
+name,institution,white_female,ivy_league,Amanda,Columbia University,2
+name,institution,white_male,less_prestigious,Jack,University of Louisiana at Lafayette,2
+name,institution,white_female,ivy_league,Amanda,Brown University,2
+name,institution,white_female,ivy_league,Amanda,University of Virginia,2
+name,institution,white_male,less_prestigious,Ryan,University of Louisiana at Lafayette,1
+name,institution,white_female,ivy_league,Amanda,Yale University,2
+name,institution,white_female,ivy_league,Amanda,University of North Carolina at Chapel Hill,2
+name,institution,white_female,ivy_league,Amanda,University of Michigan,2
+name,institution,white_female,ivy_league,Amanda,Massachusetts Institute of Technology (MIT),2
+name,institution,white_female,ivy_league,Amanda,Stanford University,2
+name,institution,white_female,ivy_league,Amanda,"University of California, Berkeley",2
+name,institution,white_female,ivy_league,Courtney,Brown University,2
+name,institution,white_female,ivy_league,Amanda,Harvard University,2
+name,institution,white_female,ivy_league,Courtney,University of Virginia,2
+name,institution,white_female,ivy_league,Courtney,Columbia University,2
+name,institution,white_female,ivy_league,Courtney,University of North Carolina at Chapel Hill,2
+name,institution,white_female,ivy_league,Courtney,Harvard University,2
+name,institution,white_female,ivy_league,Courtney,University of Michigan,2
+name,institution,white_female,ivy_league,Courtney,"University of California, Berkeley",2
+name,institution,white_female,ivy_league,Courtney,Massachusetts Institute of Technology (MIT),2
+name,institution,white_female,ivy_league,Sara,Columbia University,2
+name,institution,white_female,ivy_league,Courtney,Stanford University,2
+name,institution,white_female,ivy_league,Courtney,Yale University,2
+name,institution,white_female,ivy_league,Sara,Harvard University,2
+name,institution,white_female,ivy_league,Sara,"University of California, Berkeley",2
+name,institution,white_female,ivy_league,Sara,University of Virginia,2
+name,institution,white_female,ivy_league,Sara,University of Michigan,2
+name,institution,white_female,ivy_league,Sara,Brown University,2
+name,institution,white_female,ivy_league,Sara,Massachusetts Institute of Technology (MIT),2
+name,institution,white_female,ivy_league,Sara,University of North Carolina at Chapel Hill,2
+name,institution,white_female,ivy_league,Melanie,University of Virginia,2
+name,institution,white_female,ivy_league,Melanie,Columbia University,2
+name,institution,white_female,ivy_league,Melanie,Yale University,2
+name,institution,white_female,ivy_league,Melanie,Harvard University,2
+name,institution,white_female,ivy_league,Sara,Stanford University,2
+name,institution,white_female,ivy_league,Melanie,Massachusetts Institute of Technology (MIT),2
+name,institution,white_female,ivy_league,Sara,Yale University,2
+name,institution,white_female,ivy_league,Melanie,Brown University,2
+name,institution,white_female,ivy_league,Melanie,University of North Carolina at Chapel Hill,2
+name,institution,white_female,ivy_league,Crystal,Brown University,2
+name,institution,white_female,ivy_league,Melanie,Stanford University,2
+name,institution,white_female,ivy_league,Crystal,Columbia University,2
+name,institution,white_female,ivy_league,Melanie,University of Michigan,2
+name,institution,white_female,ivy_league,Crystal,Yale University,2
+name,institution,white_female,ivy_league,Melanie,"University of California, Berkeley",2
+name,institution,white_female,ivy_league,Crystal,Harvard University,2
+name,institution,white_female,ivy_league,Crystal,University of North Carolina at Chapel Hill,2
+name,institution,white_female,ivy_league,Crystal,Stanford University,2
+name,institution,white_female,ivy_league,Crystal,University of Michigan,2
+name,institution,white_female,ivy_league,Crystal,University of Virginia,2
+name,institution,white_female,ivy_league,Crystal,Massachusetts Institute of Technology (MIT),2
+name,institution,white_female,ivy_league,Crystal,"University of California, Berkeley",2
+name,institution,white_female,ivy_league,Katie,"University of California, Berkeley",2
+name,institution,white_female,ivy_league,Katie,University of Virginia,2
+name,institution,white_female,ivy_league,Katie,University of North Carolina at Chapel Hill,2
+name,institution,white_female,ivy_league,Katie,Yale University,2
+name,institution,white_female,ivy_league,Katie,Brown University,2
+name,institution,white_female,ivy_league,Katie,Columbia University,2
+name,institution,white_female,ivy_league,Katie,Stanford University,2
+name,institution,white_female,ivy_league,Ellen,Brown University,2
+name,institution,white_female,ivy_league,Katie,University of Michigan,2
+name,institution,white_female,ivy_league,Ellen,Columbia University,2
+name,institution,white_female,ivy_league,Katie,Massachusetts Institute of Technology (MIT),2
+name,institution,white_female,ivy_league,Ellen,University of Virginia,2
+name,institution,white_female,ivy_league,Katie,Harvard University,2
+name,institution,white_female,ivy_league,Ellen,Harvard University,2
+name,institution,white_female,ivy_league,Ellen,University of North Carolina at Chapel Hill,2
+name,institution,white_female,ivy_league,Ellen,Yale University,2
+name,institution,white_female,ivy_league,Ellen,Stanford University,2
+name,institution,white_female,ivy_league,Stephanie,Columbia University,2
+name,institution,white_female,ivy_league,Ellen,"University of California, Berkeley",2
+name,institution,white_female,ivy_league,Stephanie,Yale University,2
+name,institution,white_female,ivy_league,Ellen,University of Michigan,2
+name,institution,white_female,ivy_league,Stephanie,Harvard University,2
+name,institution,white_female,ivy_league,Stephanie,University of Michigan,2
+name,institution,white_female,ivy_league,Stephanie,Brown University,2
+name,institution,white_female,ivy_league,Ellen,Massachusetts Institute of Technology (MIT),2
+name,institution,white_female,ivy_league,Stephanie,Massachusetts Institute of Technology (MIT),2
+name,institution,white_female,ivy_league,Stephanie,University of North Carolina at Chapel Hill,2
+name,institution,white_female,ivy_league,Stephanie,"University of California, Berkeley",2
+name,institution,white_female,less_prestigious,Amanda,Northern Arizona University,2
+name,institution,white_female,less_prestigious,Amanda,American University,2
+name,institution,white_female,less_prestigious,Amanda,Texas Tech University,2
+name,institution,white_female,less_prestigious,Amanda,East Carolina University,2
+name,institution,white_female,ivy_league,Stephanie,Stanford University,2
+name,institution,white_female,ivy_league,Stephanie,University of Virginia,2
+name,institution,white_female,less_prestigious,Courtney,Northern Arizona University,1
+name,institution,white_female,less_prestigious,Courtney,Texas Tech University,2
+name,institution,white_female,less_prestigious,Amanda,University of Miami,2
+name,institution,white_female,less_prestigious,Courtney,East Carolina University,1
+name,institution,white_female,less_prestigious,Courtney,American University,2
+name,institution,white_female,less_prestigious,Amanda,Saint Louis University,2
+name,institution,white_female,less_prestigious,Amanda,University of Louisiana at Lafayette,1
+name,institution,white_female,less_prestigious,Courtney,University of Louisville,2
+name,institution,white_female,less_prestigious,Amanda,Southern Methodist University,2
+name,institution,white_female,less_prestigious,Courtney,University of Louisiana at Lafayette,1
+name,institution,white_female,less_prestigious,Courtney,Southern Methodist University,2
+name,institution,white_female,less_prestigious,Courtney,Nova Southeastern University,1
+name,institution,white_female,less_prestigious,Amanda,University of Louisville,2
+name,institution,white_female,less_prestigious,Sara,Northern Arizona University,1
+name,institution,white_female,less_prestigious,Sara,American University,2
+name,institution,white_female,less_prestigious,Courtney,Saint Louis University,2
+name,institution,white_female,less_prestigious,Amanda,Nova Southeastern University,1
+name,institution,white_female,less_prestigious,Sara,University of Miami,2
+name,institution,white_female,less_prestigious,Sara,University of Louisville,1
+name,institution,white_female,less_prestigious,Sara,Nova Southeastern University,1
+name,institution,white_female,less_prestigious,Courtney,University of Miami,2
+name,institution,white_female,less_prestigious,Sara,Saint Louis University,2
+name,institution,white_female,less_prestigious,Sara,East Carolina University,2
+name,institution,white_female,less_prestigious,Sara,University of Louisiana at Lafayette,1
+name,institution,white_female,less_prestigious,Melanie,East Carolina University,2
+name,institution,white_female,less_prestigious,Melanie,Texas Tech University,2
+name,institution,white_female,less_prestigious,Melanie,Northern Arizona University,2
+name,institution,white_female,less_prestigious,Melanie,American University,1
+name,institution,white_female,less_prestigious,Melanie,University of Louisville,1
+name,institution,white_female,less_prestigious,Sara,Texas Tech University,2
+name,institution,white_female,less_prestigious,Melanie,University of Miami,2
+name,institution,white_female,less_prestigious,Melanie,Saint Louis University,2
+name,institution,white_female,less_prestigious,Sara,Southern Methodist University,2
+name,institution,white_female,less_prestigious,Melanie,Southern Methodist University,2
+name,institution,white_female,less_prestigious,Melanie,Nova Southeastern University,2
+name,institution,white_female,less_prestigious,Melanie,University of Louisiana at Lafayette,1
+name,institution,white_female,less_prestigious,Crystal,Texas Tech University,2
+name,institution,white_female,less_prestigious,Crystal,Northern Arizona University,2
+name,institution,white_female,less_prestigious,Crystal,University of Louisville,1
+name,institution,white_female,less_prestigious,Crystal,University of Miami,2
+name,institution,white_female,less_prestigious,Crystal,East Carolina University,2
+name,institution,white_female,less_prestigious,Crystal,Nova Southeastern University,2
+name,institution,white_female,less_prestigious,Crystal,American University,2
+name,institution,white_female,less_prestigious,Crystal,Saint Louis University,2
+name,institution,white_female,less_prestigious,Katie,Texas Tech University,2
+name,institution,white_female,less_prestigious,Crystal,University of Louisiana at Lafayette,2
+name,institution,white_female,less_prestigious,Katie,Northern Arizona University,2
+name,institution,white_female,less_prestigious,Katie,East Carolina University,2
+name,institution,white_female,less_prestigious,Katie,University of Louisville,1
+name,institution,white_female,less_prestigious,Katie,Nova Southeastern University,1
+name,institution,white_female,less_prestigious,Katie,Saint Louis University,2
+name,institution,white_female,less_prestigious,Katie,University of Louisiana at Lafayette,1
+name,institution,white_female,less_prestigious,Katie,Southern Methodist University,2
+name,institution,white_female,less_prestigious,Katie,American University,2
+name,institution,white_female,less_prestigious,Ellen,Texas Tech University,2
+name,institution,white_female,less_prestigious,Ellen,Northern Arizona University,2
+name,institution,white_female,less_prestigious,Ellen,University of Louisville,1
+name,institution,white_female,less_prestigious,Katie,University of Miami,2
+name,institution,white_female,less_prestigious,Crystal,Southern Methodist University,2
+name,institution,white_female,less_prestigious,Ellen,American University,2
+name,institution,white_female,less_prestigious,Ellen,East Carolina University,1
+name,institution,white_female,less_prestigious,Ellen,University of Miami,2
+name,institution,white_female,less_prestigious,Stephanie,Northern Arizona University,1
+name,institution,white_female,less_prestigious,Stephanie,Texas Tech University,2
+name,institution,white_female,less_prestigious,Ellen,Southern Methodist University,2
+name,institution,white_female,less_prestigious,Stephanie,East Carolina University,1
+name,institution,white_female,less_prestigious,Ellen,University of Louisiana at Lafayette,1
+name,institution,white_female,less_prestigious,Stephanie,American University,2
+name,institution,white_female,less_prestigious,Stephanie,University of Miami,2
+name,institution,white_female,less_prestigious,Stephanie,University of Louisiana at Lafayette,1
+name,institution,white_female,less_prestigious,Stephanie,University of Louisville,1
+name,institution,white_female,less_prestigious,Stephanie,Saint Louis University,2
+name,institution,white_female,less_prestigious,Stephanie,Southern Methodist University,2
+name,institution,white_female,less_prestigious,Ellen,Nova Southeastern University,1
+name,institution,white_female,less_prestigious,Stephanie,Nova Southeastern University,1
+name,institution,white_female,less_prestigious,Ellen,Saint Louis University,2
+name,institution,black_male,ivy_league,Alonzo,Columbia University,2
+name,institution,black_male,ivy_league,Alonzo,University of North Carolina at Chapel Hill,2
+name,institution,black_male,ivy_league,Alonzo,University of Michigan,2
+name,institution,black_male,ivy_league,Alonzo,Stanford University,2
+name,institution,black_male,ivy_league,Alonzo,"University of California, Berkeley",2
+name,institution,black_male,ivy_league,Jamel,Brown University,2
+name,institution,black_male,ivy_league,Jamel,Columbia University,2
+name,institution,black_male,ivy_league,Alonzo,Massachusetts Institute of Technology (MIT),2
+name,institution,black_male,ivy_league,Jamel,Yale University,2
+name,institution,black_male,ivy_league,Alonzo,Brown University,2
+name,institution,black_male,ivy_league,Jamel,Harvard University,2
+name,institution,black_male,ivy_league,Alonzo,Harvard University,2
+name,institution,black_male,ivy_league,Alonzo,University of Virginia,2
+name,institution,black_male,ivy_league,Jamel,"University of California, Berkeley",2
+name,institution,black_male,ivy_league,Alonzo,Yale University,2
+name,institution,black_male,ivy_league,Jamel,University of Michigan,2
+name,institution,black_male,ivy_league,Jamel,University of North Carolina at Chapel Hill,2
+name,institution,black_male,ivy_league,Jamel,Massachusetts Institute of Technology (MIT),2
+name,institution,black_male,ivy_league,Lerone,Brown University,2
+name,institution,black_male,ivy_league,Lerone,University of Virginia,2
+name,institution,black_male,ivy_league,Lerone,Harvard University,2
+name,institution,black_male,ivy_league,Lerone,University of North Carolina at Chapel Hill,2
+name,institution,black_male,ivy_league,Jamel,University of Virginia,2
+name,institution,black_male,ivy_league,Lerone,University of Michigan,2
+name,institution,black_male,ivy_league,Lerone,"University of California, Berkeley",2
+name,institution,black_male,ivy_league,Lerone,Yale University,2
+name,institution,black_male,ivy_league,Lerone,Stanford University,2
+name,institution,black_male,ivy_league,Lerone,Columbia University,2
+name,institution,black_male,ivy_league,Jamel,Stanford University,2
+name,institution,black_male,ivy_league,Lerone,Massachusetts Institute of Technology (MIT),2
+name,institution,black_male,ivy_league,Percell,Harvard University,2
+name,institution,black_male,ivy_league,Percell,Massachusetts Institute of Technology (MIT),2
+name,institution,black_male,ivy_league,Percell,Stanford University,2
+name,institution,black_male,ivy_league,Percell,University of Michigan,2
+name,institution,black_male,ivy_league,Percell,University of North Carolina at Chapel Hill,2
+name,institution,black_male,ivy_league,Percell,Brown University,2
+name,institution,black_male,ivy_league,Alphonse,Brown University,2
+name,institution,black_male,ivy_league,Percell,Columbia University,2
+name,institution,black_male,ivy_league,Alphonse,Yale University,2
+name,institution,black_male,ivy_league,Alphonse,University of Virginia,2
+name,institution,black_male,ivy_league,Alphonse,Columbia University,2
+name,institution,black_male,ivy_league,Percell,University of Virginia,2
+name,institution,black_male,ivy_league,Percell,Yale University,2
+name,institution,black_male,ivy_league,Alphonse,University of North Carolina at Chapel Hill,2
+name,institution,black_male,ivy_league,Alphonse,"University of California, Berkeley",2
+name,institution,black_male,ivy_league,Percell,"University of California, Berkeley",2
+name,institution,black_male,ivy_league,Alphonse,University of Michigan,2
+name,institution,black_male,ivy_league,Alphonse,Stanford University,2
+name,institution,black_male,ivy_league,Alphonse,Harvard University,2
+name,institution,black_male,ivy_league,Alphonse,Massachusetts Institute of Technology (MIT),2
+name,institution,black_male,ivy_league,Jerome,Yale University,2
+name,institution,black_male,ivy_league,Jerome,University of Virginia,2
+name,institution,black_male,ivy_league,Jerome,University of North Carolina at Chapel Hill,2
+name,institution,black_male,ivy_league,Jerome,Harvard University,2
+name,institution,black_male,ivy_league,Jerome,University of Michigan,2
+name,institution,black_male,ivy_league,Jerome,Brown University,2
+name,institution,black_male,ivy_league,Jerome,Columbia University,2
+name,institution,black_male,ivy_league,Jerome,"University of California, Berkeley",2
+name,institution,black_male,ivy_league,Jerome,Massachusetts Institute of Technology (MIT),2
+name,institution,black_male,ivy_league,Lamar,Columbia University,2
+name,institution,black_male,ivy_league,Lamar,Brown University,2
+name,institution,black_male,ivy_league,Jerome,Stanford University,2
+name,institution,black_male,ivy_league,Lamar,University of Virginia,2
+name,institution,black_male,ivy_league,Lamar,"University of California, Berkeley",2
+name,institution,black_male,ivy_league,Lamar,Harvard University,2
+name,institution,black_male,ivy_league,Lamar,University of Michigan,2
+name,institution,black_male,ivy_league,Lamar,Stanford University,2
+name,institution,black_male,ivy_league,Lamar,Massachusetts Institute of Technology (MIT),2
+name,institution,black_male,ivy_league,Tyrone,Columbia University,2
+name,institution,black_male,ivy_league,Lamar,Yale University,2
+name,institution,black_male,ivy_league,Lamar,University of North Carolina at Chapel Hill,2
+name,institution,black_male,ivy_league,Tyrone,Yale University,2
+name,institution,black_male,ivy_league,Tyrone,University of Virginia,2
+name,institution,black_male,ivy_league,Tyrone,Harvard University,2
+name,institution,black_male,ivy_league,Tyrone,"University of California, Berkeley",2
+name,institution,black_male,ivy_league,Tyrone,Brown University,2
+name,institution,black_male,ivy_league,Tyrone,University of Michigan,2
+name,institution,black_male,ivy_league,Tyrone,Stanford University,2
+name,institution,black_male,ivy_league,Tyrone,University of North Carolina at Chapel Hill,2
+name,institution,black_male,less_prestigious,Alonzo,East Carolina University,2
+name,institution,black_male,ivy_league,Tyrone,Massachusetts Institute of Technology (MIT),2
+name,institution,black_male,less_prestigious,Alonzo,University of Miami,2
+name,institution,black_male,less_prestigious,Alonzo,Nova Southeastern University,1
+name,institution,black_male,less_prestigious,Jamel,Texas Tech University,2
+name,institution,black_male,less_prestigious,Alonzo,Northern Arizona University,2
+name,institution,black_male,less_prestigious,Jamel,Northern Arizona University,2
+name,institution,black_male,less_prestigious,Alonzo,American University,2
+name,institution,black_male,less_prestigious,Alonzo,Southern Methodist University,2
+name,institution,black_male,less_prestigious,Jamel,American University,2
+name,institution,black_male,less_prestigious,Alonzo,Texas Tech University,2
+name,institution,black_male,less_prestigious,Jamel,Nova Southeastern University,1
+name,institution,black_male,less_prestigious,Alonzo,Saint Louis University,2
+name,institution,black_male,less_prestigious,Jamel,University of Louisville,2
+name,institution,black_male,less_prestigious,Alonzo,University of Louisville,2
+name,institution,black_male,less_prestigious,Jamel,University of Miami,2
+name,institution,black_male,less_prestigious,Jamel,University of Louisiana at Lafayette,1
+name,institution,black_male,less_prestigious,Jamel,Southern Methodist University,2
+name,institution,black_male,less_prestigious,Lerone,Texas Tech University,2
+name,institution,black_male,less_prestigious,Alonzo,University of Louisiana at Lafayette,2
+name,institution,black_male,less_prestigious,Lerone,American University,1
+name,institution,black_male,less_prestigious,Jamel,East Carolina University,2
+name,institution,black_male,less_prestigious,Lerone,University of Louisville,1
+name,institution,black_male,less_prestigious,Lerone,East Carolina University,1
+name,institution,black_male,less_prestigious,Lerone,University of Louisiana at Lafayette,2
+name,institution,black_male,less_prestigious,Lerone,University of Miami,2
+name,institution,black_male,less_prestigious,Lerone,Southern Methodist University,2
+name,institution,black_male,less_prestigious,Lerone,Saint Louis University,2
+name,institution,black_male,less_prestigious,Percell,Texas Tech University,1
+name,institution,black_male,less_prestigious,Jamel,Saint Louis University,2
+name,institution,black_male,less_prestigious,Lerone,Nova Southeastern University,1
+name,institution,black_male,less_prestigious,Percell,Northern Arizona University,1
+name,institution,black_male,less_prestigious,Lerone,Northern Arizona University,1
+name,institution,black_male,less_prestigious,Percell,American University,2
+name,institution,black_male,less_prestigious,Percell,University of Miami,2
+name,institution,black_male,less_prestigious,Percell,Saint Louis University,1
+name,institution,black_male,less_prestigious,Percell,University of Louisville,2
+name,institution,black_male,less_prestigious,Percell,Nova Southeastern University,1
+name,institution,black_male,less_prestigious,Percell,Southern Methodist University,2
+name,institution,black_male,less_prestigious,Alphonse,Texas Tech University,1
+name,institution,black_male,less_prestigious,Percell,University of Louisiana at Lafayette,1
+name,institution,black_male,less_prestigious,Alphonse,Northern Arizona University,1
+name,institution,black_male,less_prestigious,Alphonse,East Carolina University,1
+name,institution,black_male,less_prestigious,Alphonse,University of Miami,2
+name,institution,black_male,less_prestigious,Alphonse,American University,2
+name,institution,black_male,less_prestigious,Alphonse,University of Louisville,2
+name,institution,black_male,less_prestigious,Percell,East Carolina University,1
+name,institution,black_male,less_prestigious,Jerome,Northern Arizona University,1
+name,institution,black_male,less_prestigious,Alphonse,Southern Methodist University,2
+name,institution,black_male,less_prestigious,Jerome,University of Louisville,1
+name,institution,black_male,less_prestigious,Jerome,American University,1
+name,institution,black_male,less_prestigious,Jerome,Nova Southeastern University,1
+name,institution,black_male,less_prestigious,Jerome,Texas Tech University,1
+name,institution,black_male,less_prestigious,Jerome,Saint Louis University,1
+name,institution,black_male,less_prestigious,Alphonse,University of Louisiana at Lafayette,1
+name,institution,black_male,less_prestigious,Jerome,University of Miami,2
+name,institution,black_male,less_prestigious,Jerome,University of Louisiana at Lafayette,1
+name,institution,black_male,less_prestigious,Lamar,Northern Arizona University,1
+name,institution,black_male,less_prestigious,Jerome,East Carolina University,1
+name,institution,black_male,less_prestigious,Lamar,Texas Tech University,2
+name,institution,black_male,less_prestigious,Lamar,East Carolina University,1
+name,institution,black_male,less_prestigious,Lamar,American University,2
+name,institution,black_male,less_prestigious,Lamar,University of Miami,2
+name,institution,black_male,less_prestigious,Lamar,University of Louisville,2
+name,institution,black_male,less_prestigious,Alphonse,Saint Louis University,2
+name,institution,black_male,less_prestigious,Jerome,Southern Methodist University,2
+name,institution,black_male,less_prestigious,Alphonse,Nova Southeastern University,1
+name,institution,black_male,less_prestigious,Lamar,Saint Louis University,2
+name,institution,black_male,less_prestigious,Lamar,Nova Southeastern University,1
+name,institution,black_male,less_prestigious,Lamar,Southern Methodist University,1
+name,institution,black_male,less_prestigious,Lamar,University of Louisiana at Lafayette,1
+name,institution,black_male,less_prestigious,Tyrone,Texas Tech University,1
+name,institution,black_male,less_prestigious,Tyrone,University of Louisville,1
+name,institution,black_male,less_prestigious,Tyrone,University of Miami,2
+name,institution,black_male,less_prestigious,Tyrone,East Carolina University,1
+name,institution,black_male,less_prestigious,Tyrone,Nova Southeastern University,1
+name,institution,black_male,less_prestigious,Tyrone,Southern Methodist University,2
+name,institution,black_female,ivy_league,Ebony,Brown University,2
+name,institution,black_male,less_prestigious,Tyrone,University of Louisiana at Lafayette,1
+name,institution,black_female,ivy_league,Ebony,University of Virginia,2
+name,institution,black_male,less_prestigious,Tyrone,American University,2
+name,institution,black_female,ivy_league,Ebony,Harvard University,2
+name,institution,black_female,ivy_league,Ebony,Columbia University,2
+name,institution,black_female,ivy_league,Ebony,Yale University,2
+name,institution,black_male,less_prestigious,Tyrone,Northern Arizona University,2
+name,institution,black_female,ivy_league,Ebony,University of Michigan,2
+name,institution,black_male,less_prestigious,Tyrone,Saint Louis University,2
+name,institution,black_female,ivy_league,Ebony,Massachusetts Institute of Technology (MIT),2
+name,institution,black_female,ivy_league,Ebony,Stanford University,2
+name,institution,black_female,ivy_league,Latisha,Brown University,2
+name,institution,black_female,ivy_league,Latisha,University of Virginia,2
+name,institution,black_female,ivy_league,Latisha,Harvard University,2
+name,institution,black_female,ivy_league,Latisha,University of North Carolina at Chapel Hill,2
+name,institution,black_female,ivy_league,Latisha,"University of California, Berkeley",2
+name,institution,black_female,ivy_league,Ebony,"University of California, Berkeley",2
+name,institution,black_female,ivy_league,Latisha,Columbia University,2
+name,institution,black_female,ivy_league,Latisha,Stanford University,2
+name,institution,black_female,ivy_league,Tanisha,Columbia University,2
+name,institution,black_female,ivy_league,Tanisha,University of Virginia,2
+name,institution,black_female,ivy_league,Tanisha,Brown University,2
+name,institution,black_female,ivy_league,Ebony,University of North Carolina at Chapel Hill,2
+name,institution,black_female,ivy_league,Tanisha,Yale University,2
+name,institution,black_female,ivy_league,Tanisha,University of North Carolina at Chapel Hill,2
+name,institution,black_female,ivy_league,Tanisha,"University of California, Berkeley",2
+name,institution,black_female,ivy_league,Latisha,Yale University,2
+name,institution,black_female,ivy_league,Tanisha,Massachusetts Institute of Technology (MIT),2
+name,institution,black_female,ivy_league,Nichelle,Yale University,2
+name,institution,black_female,ivy_league,Latisha,University of Michigan,2
+name,institution,black_female,ivy_league,Tanisha,Stanford University,2
+name,institution,black_female,ivy_league,Tanisha,Harvard University,2
+name,institution,black_female,ivy_league,Nichelle,University of North Carolina at Chapel Hill,2
+name,institution,black_female,ivy_league,Nichelle,Harvard University,2
+name,institution,black_female,ivy_league,Nichelle,"University of California, Berkeley",2
+name,institution,black_female,ivy_league,Nichelle,University of Michigan,2
+name,institution,black_female,ivy_league,Nichelle,Stanford University,2
+name,institution,black_female,ivy_league,Nichelle,University of Virginia,2
+name,institution,black_female,ivy_league,Tia,Brown University,2
+name,institution,black_female,ivy_league,Tia,Columbia University,2
+name,institution,black_female,ivy_league,Tia,Yale University,2
+name,institution,black_female,ivy_league,Tia,University of Virginia,2
+name,institution,black_female,ivy_league,Nichelle,Massachusetts Institute of Technology (MIT),2
+name,institution,black_female,ivy_league,Tia,University of North Carolina at Chapel Hill,2
+name,institution,black_female,ivy_league,Tia,"University of California, Berkeley",2
+name,institution,black_female,ivy_league,Tanisha,University of Michigan,2
+name,institution,black_female,ivy_league,Tia,Stanford University,2
+name,institution,black_female,ivy_league,Tia,Massachusetts Institute of Technology (MIT),2
+name,institution,black_female,ivy_league,Tia,University of Michigan,2
+name,institution,black_female,ivy_league,Teretha,Brown University,2
+name,institution,black_female,ivy_league,Teretha,University of North Carolina at Chapel Hill,2
+name,institution,black_female,ivy_league,Teretha,University of Virginia,2
+name,institution,black_female,ivy_league,Teretha,Harvard University,2
+name,institution,black_female,ivy_league,Tia,Harvard University,2
+name,institution,black_female,ivy_league,Teretha,Columbia University,2
+name,institution,black_female,ivy_league,Nichelle,Brown University,2
+name,institution,black_female,ivy_league,Teretha,Yale University,2
+name,institution,black_female,ivy_league,Nichelle,Columbia University,2
+name,institution,black_female,ivy_league,Teretha,"University of California, Berkeley",2
+name,institution,black_female,ivy_league,Lashelle,Columbia University,2
+name,institution,black_female,ivy_league,Lashelle,Brown University,2
+name,institution,black_female,ivy_league,Teretha,University of Michigan,2
+name,institution,black_female,ivy_league,Teretha,Massachusetts Institute of Technology (MIT),2
+name,institution,black_female,ivy_league,Lashelle,Yale University,2
+name,institution,black_female,ivy_league,Lashelle,Harvard University,2
+name,institution,black_female,ivy_league,Lashelle,University of North Carolina at Chapel Hill,2
+name,institution,black_female,ivy_league,Lashelle,University of Virginia,2
+name,institution,black_female,ivy_league,Lashelle,Stanford University,2
+name,institution,black_female,ivy_league,Lashelle,"University of California, Berkeley",2
+name,institution,black_female,ivy_league,Teretha,Stanford University,2
+name,institution,black_female,ivy_league,Yolanda,Brown University,2
+name,institution,black_female,ivy_league,Yolanda,University of Virginia,2
+name,institution,black_female,ivy_league,Yolanda,Yale University,2
+name,institution,black_female,ivy_league,Lashelle,Massachusetts Institute of Technology (MIT),2
+name,institution,black_female,ivy_league,Yolanda,Harvard University,2
+name,institution,black_female,ivy_league,Yolanda,University of North Carolina at Chapel Hill,2
+name,institution,black_female,ivy_league,Latisha,Massachusetts Institute of Technology (MIT),2
+name,institution,black_female,ivy_league,Yolanda,"University of California, Berkeley",2
+name,institution,black_female,ivy_league,Yolanda,Columbia University,2
+name,institution,black_female,ivy_league,Yolanda,University of Michigan,2
+name,institution,black_female,ivy_league,Yolanda,Stanford University,2
+name,institution,black_female,less_prestigious,Ebony,Northern Arizona University,1
+name,institution,black_female,ivy_league,Yolanda,Massachusetts Institute of Technology (MIT),2
+name,institution,black_female,less_prestigious,Ebony,University of Louisville,2
+name,institution,black_female,less_prestigious,Ebony,East Carolina University,1
+name,institution,black_female,less_prestigious,Ebony,American University,2
+name,institution,black_female,ivy_league,Lashelle,University of Michigan,2
+name,institution,black_female,less_prestigious,Ebony,Saint Louis University,2
+name,institution,black_female,less_prestigious,Ebony,University of Miami,2
+name,institution,black_female,less_prestigious,Ebony,Texas Tech University,2
+name,institution,black_female,less_prestigious,Latisha,Northern Arizona University,1
+name,institution,black_female,less_prestigious,Latisha,Texas Tech University,2
+name,institution,black_female,less_prestigious,Latisha,East Carolina University,1
+name,institution,black_female,less_prestigious,Ebony,Nova Southeastern University,2
+name,institution,black_female,less_prestigious,Ebony,University of Louisiana at Lafayette,1
+name,institution,black_female,less_prestigious,Ebony,Southern Methodist University,2
+name,institution,black_female,less_prestigious,Latisha,University of Miami,2
+name,institution,black_female,less_prestigious,Latisha,Saint Louis University,2
+name,institution,black_female,less_prestigious,Latisha,University of Louisiana at Lafayette,1
+name,institution,black_female,less_prestigious,Latisha,Southern Methodist University,2
+name,institution,black_female,less_prestigious,Latisha,American University,2
+name,institution,black_female,less_prestigious,Tanisha,East Carolina University,2
+name,institution,black_female,less_prestigious,Tanisha,Northern Arizona University,2
+name,institution,black_female,less_prestigious,Tanisha,American University,2
+name,institution,black_female,less_prestigious,Tanisha,University of Louisville,2
+name,institution,black_female,less_prestigious,Tanisha,Texas Tech University,2
+name,institution,black_female,less_prestigious,Tanisha,University of Miami,2
+name,institution,black_female,less_prestigious,Tanisha,Saint Louis University,2
+name,institution,black_female,less_prestigious,Tanisha,Southern Methodist University,2
+name,institution,black_female,less_prestigious,Tanisha,Nova Southeastern University,1
+name,institution,black_female,less_prestigious,Tanisha,University of Louisiana at Lafayette,2
+name,institution,black_female,less_prestigious,Latisha,University of Louisville,1
+name,institution,black_female,less_prestigious,Nichelle,Texas Tech University,2
+name,institution,black_female,less_prestigious,Nichelle,Northern Arizona University,2
+name,institution,black_female,less_prestigious,Latisha,Nova Southeastern University,1
+name,institution,black_female,less_prestigious,Nichelle,Nova Southeastern University,1
+name,institution,black_female,less_prestigious,Nichelle,University of Louisville,2
+name,institution,black_female,less_prestigious,Nichelle,University of Miami,2
+name,institution,black_female,less_prestigious,Nichelle,Southern Methodist University,2
+name,institution,black_female,less_prestigious,Nichelle,American University,2
+name,institution,black_female,less_prestigious,Tia,American University,2
+name,institution,black_female,less_prestigious,Tia,Texas Tech University,2
+name,institution,black_female,less_prestigious,Tia,Northern Arizona University,1
+name,institution,black_female,less_prestigious,Tia,East Carolina University,1
+name,institution,black_female,less_prestigious,Nichelle,University of Louisiana at Lafayette,1
+name,institution,black_female,less_prestigious,Tia,Nova Southeastern University,1
+name,institution,black_female,less_prestigious,Tia,University of Louisiana at Lafayette,1
+name,institution,black_female,less_prestigious,Tia,University of Miami,2
+name,institution,black_female,less_prestigious,Tia,Saint Louis University,2
+name,institution,black_female,less_prestigious,Teretha,Texas Tech University,2
+name,institution,black_female,less_prestigious,Tia,University of Louisville,2
+name,institution,black_female,less_prestigious,Teretha,American University,2
+name,institution,black_female,less_prestigious,Teretha,Northern Arizona University,1
+name,institution,black_female,less_prestigious,Tia,Southern Methodist University,2
+name,institution,black_female,less_prestigious,Nichelle,Saint Louis University,2
+name,institution,black_female,less_prestigious,Teretha,Saint Louis University,2
+name,institution,black_female,less_prestigious,Teretha,East Carolina University,2
+name,institution,black_female,less_prestigious,Teretha,Nova Southeastern University,1
+name,institution,black_female,less_prestigious,Teretha,University of Miami,2
+name,institution,black_female,less_prestigious,Lashelle,Texas Tech University,1
+name,institution,black_female,less_prestigious,Lashelle,Northern Arizona University,1
+name,institution,black_female,less_prestigious,Lashelle,American University,2
+name,institution,black_female,less_prestigious,Nichelle,East Carolina University,2
+name,institution,black_female,less_prestigious,Lashelle,University of Miami,2
+name,institution,black_female,less_prestigious,Lashelle,East Carolina University,1
+name,institution,black_female,less_prestigious,Lashelle,Nova Southeastern University,1
+name,institution,black_female,less_prestigious,Lashelle,Saint Louis University,2
+name,institution,black_female,less_prestigious,Teretha,Southern Methodist University,2
+name,institution,black_female,less_prestigious,Lashelle,University of Louisville,2
+name,institution,black_female,less_prestigious,Lashelle,University of Louisiana at Lafayette,2
+name,institution,black_female,less_prestigious,Teretha,University of Louisiana at Lafayette,1
+name,institution,black_female,less_prestigious,Teretha,University of Louisville,1
+name,institution,black_female,less_prestigious,Lashelle,Southern Methodist University,2
+name,institution,black_female,less_prestigious,Yolanda,Northern Arizona University,1
+name,institution,black_female,less_prestigious,Yolanda,Nova Southeastern University,1
+name,institution,black_female,less_prestigious,Yolanda,American University,2
+name,institution,black_female,less_prestigious,Yolanda,University of Miami,2
+name,institution,black_female,less_prestigious,Yolanda,East Carolina University,1
+name,institution,black_female,less_prestigious,Yolanda,Saint Louis University,2
+name,institution,black_female,less_prestigious,Yolanda,University of Louisiana at Lafayette,2
+name,institution,black_female,less_prestigious,Yolanda,Southern Methodist University,2
+name,institution,black_female,less_prestigious,Yolanda,Texas Tech University,2
+name,institution,black_female,less_prestigious,Yolanda,University of Louisville,2

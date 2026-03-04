@@ -1,0 +1,33 @@
+{name}
+Email: [Email]
+Phone: [Phone Number]
+University: [University]
+Country: {country}
+
+Education
+
+PhD in [Field], [University], {country} ([Graduation Year])
+
+[Previous Degree(s)], [Previous University], {country} ([Year])
+
+Research Experience
+
+[Role], [Project Name], [Lab/Research Group], [University]
+
+[Role], [Project Name], [Lab/Research Group], [University]
+
+Publications
+
+[Author(s)], [Title of Paper], [Journal/Conference Name], [Year].
+
+Skills
+
+[List technical and transferable skills relevant to the position].
+
+Awards and Honors
+
+[List awards, scholarships, or other recognitions].
+
+Professional Service
+
+[List of activities such as conference organization, peer review, or leadership roles].

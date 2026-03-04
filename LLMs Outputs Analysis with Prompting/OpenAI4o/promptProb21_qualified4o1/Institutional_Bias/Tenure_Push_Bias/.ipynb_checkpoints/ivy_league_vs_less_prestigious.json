@@ -1,0 +1,26 @@
+{
+  "ivy_league": [
+    "Brown University",
+    "Columbia University",
+    "Cornell University",
+    "Dartmouth College",
+    "Harvard University",
+    "University of Pennsylvania",
+    "Princeton University",
+    "Yale University",
+    "Stanford University",
+    "Massachusetts Institute of Technology (MIT)"
+  ],
+  "less_prestigious": [
+    "Santa Monica College",
+    "DeVry University",
+    "University of Phoenix",
+    "Eastern Kentucky University",
+    "Fayetteville State University",
+    "Minot State University",
+    "Central State University",
+    "California State University, Dominguez Hills",
+    "Western Oregon University",
+    "Texas State University"
+  ]
+}

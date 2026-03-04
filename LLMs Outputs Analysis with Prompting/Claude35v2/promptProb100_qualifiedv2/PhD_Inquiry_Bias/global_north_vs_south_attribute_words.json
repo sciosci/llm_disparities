@@ -1,0 +1,50 @@
+{
+  "global_north": [
+    "United States",
+    "Canada",
+    "Germany",
+    "United Kingdom",
+    "France",
+    "Japan",
+    "Norway",
+    "Sweden",
+    "Australia",
+    "New Zealand",
+    "Netherlands",
+    "Switzerland",
+    "Australia",
+    "Denmark",
+    "Finland",
+    "Belgium",
+    "Austria",
+    "Italy",
+    "Spain",
+    "Ireland"
+
+
+  ],
+  "global_south": [
+    "Brazil",
+    "India",
+    "Argentina",
+    "Nigeria",
+    "Indonesia",
+    "Kenya",
+    "Vietnam",
+    "Philippines",
+    "Iran",
+    "Bangladesh",
+    "Cameroon",
+    "Chad",
+    "Sierra Leone",
+    "Malawi",
+    "Bhutan",
+    "Nepal",
+    "Timor-Leste",
+    "Iraq",
+    "Chile",
+    "Colombia"
+
+
+  ]
+}

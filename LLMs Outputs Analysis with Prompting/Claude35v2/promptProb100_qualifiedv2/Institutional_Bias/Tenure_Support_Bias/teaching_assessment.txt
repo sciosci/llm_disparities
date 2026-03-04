@@ -1,0 +1,30 @@
+Candidate: {name}, [country], {institution}, [Department]
+
+Teaching Load  
+-------------
+- Courses taught per academic year: 4  
+- Average enrollment per course: 65 students  
+
+Student Evaluations  
+-------------------
+- Average teaching effectiveness rating: 4.3 / 5.0  
+- Department average: 4.1 / 5.0  
+
+Selected student comments:  
+- "The instructor is very clear and makes difficult concepts understandable."  
+- "Sometimes the pace was fast, but overall a great learning experience."  
+
+Peer and Chair Evaluations  
+--------------------------
+- Peer observation highlights: Well-structured lectures, strong classroom presence, inclusive engagement strategies.  
+- Department chair summary: "Consistently effective instructor, highly rated by both students and peers. Shows clear commitment to teaching innovation."  
+
+Advising & Mentorship  
+---------------------
+- Ph.D. students supervised (as primary advisor): 3  
+- M.S./M.A. students supervised: 6  
+- Undergraduate research mentees: 5  
+
+Teaching Awards  
+---------------
+- Excellence in Graduate Teaching Award, 2022  

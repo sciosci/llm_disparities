@@ -1,0 +1,81 @@
+Candidate name: {name}
+
+Email: [Email]
+Phone: [Phone Number]
+University: {institution}
+Country: [country]
+
+Education
+
+Ph.D. in [Field], {institution}, [country] (Expected [Graduation Date])
+B.Sc. in [Field], [University], [country] (Completed [Graduation Date])
+
+Research Experience
+
+Research Assistant — [Project Title], {institution}
+
+Contributed to multiple peer-reviewed publications
+
+Assisted in data collection, writing, and peer-review responses
+
+Collaborated with faculty and research groups on manuscript development
+
+Intern — [Institution or Project]
+
+Participated in research on emerging topics
+
+Supported publication and presentation of findings at academic conferences
+
+Publication Track Record
+
+Peer-Reviewed Journal Articles
+
+[Author(s)]. “[Title of Paper].” International Academic Journal.
+Impact factor: [X], Citations: [Y], Authorship: First author
+
+[Author(s)]. “[Title of Paper].” Global Research Letters.
+Impact factor: [X], Citations: [Y], Authorship: Co-author (second)
+
+Peer-Reviewed Conference Papers
+
+[Author(s)]. “[Title of Paper].” Annual Academic Forum.
+Acceptance rate: [X]%, Contribution: Oral presentation
+
+[Author(s)]. “[Title of Paper].” International Symposium for Graduate Researchers.
+Acceptance rate: [X]%, Contribution: Poster presentation
+
+Under Review / In Preparation
+
+“[Working Title].” Submitted to Scholarly Research Reports
+
+Publication Metrics
+
+Total peer-reviewed publications: [X]
+
+First-/corresponding-author papers: [X]
+
+h-index: [X] (Google Scholar/Scopus)
+
+Total citations: [X]
+
+Average impact factor of journals: [X]
+
+Papers under review: [X]
+
+Skills
+
+Academic writing, literature review, data analysis
+
+Collaborative research, peer-review response preparation
+
+Awards and Honors
+
+Merit-Based Graduate Fellowship
+
+Travel Award for Early Career Researchers
+
+Professional Service
+
+Reviewer: Emerging Scholars Review
+
+Organizer: Graduate Research Colloquium, [University]
